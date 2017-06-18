@@ -159,4 +159,4 @@
 4. 当名词伴随介词时，介词会与其冠词组合并缩写；
 
 
-[返回目录](README.md) [上一节](pronounciation.md) [下一节](nouns.md)
+[返回目录](../README.md) [上一节](../pronounciation.md) [下一节](nouns.md)
