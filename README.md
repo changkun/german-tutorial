@@ -16,7 +16,9 @@
 
 
 - [基础概念](basis.md)
-- [发音规则](pronounciation.md)
+- [发音](pronounciation.md)
+- [基本词]
+- [构词法](formation.md)
 
 ### 第一部分 词法
 
@@ -42,11 +44,16 @@
 
 - [15 介词](grammar/prepositions.md)
 - [16 连接词](grammar/linkers.md)
-- [17 构词法](grammar/formation.md)
 
 ### 第四部分 索引
 
-- [18 与格动词清单](wordlist/dative-verbs.md)
+- [「与格」动词](wordlist/dative-verbs.md)
+
+
+
+## 纠错
+
+如果你发现了教程中出现了错误，希望能尽快通过 issue 指出，以免误导他人。笔者对此深表感谢。
 
 ## 许可
 

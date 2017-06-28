@@ -12,6 +12,8 @@ Q R S T U V W
 
 X Y Z ä ö ü ß
 
+发音视频教程：https://www.youtube.com/watch?v=e6vquyjxImk
+
 ### 长短音规则
 
 - 规则一：单词中两个相同的元音叠加在一起时，该元音发长音
