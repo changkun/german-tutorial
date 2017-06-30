@@ -14,10 +14,9 @@
 
 ### 第零部分 基础
 
-
 - [基础概念](basis.md)
 - [发音](pronounciation.md)
-- [基本词]
+- [基本词](base.md)
 - [构词法](formation.md)
 
 ### 第一部分 词法
@@ -28,7 +27,7 @@
 - [04 形容词](grammar/adjectives.md)
 - [05 副词](grammar/advers.md)
 - [06 语气词](grammar/modal.md)
-- [07 词序](grammar/order,md)
+- [07 词序](grammar/order.md)
 - [08 动词](grammar/verbs.md)
 
 ### 第二部分 句法

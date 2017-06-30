@@ -208,10 +208,6 @@ X Y Z ä ö ü ß
   - 学生之间用 du 互相称呼
   - 工作中碰到德国人要用 Sie，德国人很难跟人交心，如果能碰到一个用 du 相称的朋友，将是一辈子的好朋友。
 
-
-
-
-
 ## 延伸阅读
 
 ### 德国企业
@@ -257,4 +253,4 @@ X Y Z ä ö ü ß
   - 科隆狂欢节 Kölner Karneval
 - ……
 
-[返回目录](README.md) [上一节](basis.md) [下一节](grammar/articles.md)
+[返回目录](README.md) [上一节](basis.md) [下一节](formation.md)
