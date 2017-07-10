@@ -108,7 +108,7 @@
   > Frau XX and Herr YY are travelling to Munich. XX 女士 和 YY 先生去慕尼黑了。
 
 - 职业
-
+  
   > Frau XX ist Programmiererin
   >
   > Frau XX is a computer programmer. XX 女士是位程序员。

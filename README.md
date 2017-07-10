@@ -24,11 +24,12 @@
 - [01 冠词](grammar/articles.md)
 - [02 名词](grammar/nouns.md)
 - [03 代词](grammar/pronouns.md)
+- [15 介词](grammar/prepositions.md)
 - [04 形容词](grammar/adjectives.md)
 - [05 副词](grammar/advers.md)
 - [06 语气词](grammar/modal.md)
-- [07 词序](grammar/order.md)
 - [08 动词](grammar/verbs.md)
+- [07 词序](grammar/order.md)
 
 ### 第二部分 句法
 
@@ -38,16 +39,13 @@
 - [12 将来时](grammar/future.md)
 - [13 虚拟语态](grammar/subjunctive.md)
 - [14 被动语态](grammar/passive.md)
-
-### 第三部分 高级语法
-
-- [15 介词](grammar/prepositions.md)
 - [16 连接词](grammar/linkers.md)
+
 
 ### 第四部分 索引
 
 - [「与格」动词](wordlist/dative-verbs.md)
-
+- [结束语](end.md)
 
 
 ## 纠错
