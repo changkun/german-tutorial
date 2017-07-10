@@ -2,6 +2,10 @@
 
 代词（Pronouns），顾名思义作为为替代，是用于替代名词或者名词词组甚至一句话，进而避免重复使用的词。代词通常有这样几个类别：**人称代词**（Personal Pronouns）、**物主代词**（Prossesive Pronouns）、**指示代词**（Demonstrative Pronouns）、**疑问代词**（Interrogative Pronouns）、**反身代词**（Reflexive Pronouns）、**交互代词**（Reciprocal Pronouns）。
 
+- Milena kauft diesen Computer.
+- **Sie** kauft **ihn**.
+- Das ist **meine**.
+
 与定冠词、不定冠词一样，有些**代词也可以加名词**。这些代词在德语中称之为**物主冠词**（Prossesive Articles），类似于英语中的物主形容词（my/your/his 等）。
 
 这些（形容词性的）代词和他们修饰的名词的性别、数量、格相同。
