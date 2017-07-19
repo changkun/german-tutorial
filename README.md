@@ -48,20 +48,20 @@
 
 ### 第二部分 句法
 
-- [2.1 现在时](grammar/present.md)
-- [2.2 过去时](grammar/past.md)
-- [2.3 「将来」时](grammar/future.md)
-- [2.4 虚拟语态](grammar/subjunctive.md)
-- [2.5 被动语态](grammar/passive.md)
-- [2.6 从句](grammar/linkers.md)
+- [2.1 现在时 Present Tense](grammar/present.md)
+- [2.2 过去时 Past Tense](grammar/past.md)
+- [2.3 「将来」时 Future Tense](grammar/future.md)
+- [2.4 虚拟语态 Subjunctive](grammar/subjunctive.md)
+- [2.5 被动语态 Passive](grammar/passive.md)
+- [2.6 从句 Linker](grammar/linkers.md)
 
 ### 第三部分 清单
 
 - [3.1「与格」动词](wordlist/dative-verbs.md)
-- [3.2 A1 单词清单]()
-- [3.3 A2 单词清单]()
-- [3.4 B1 单词清单]()
-- [3.5 B2 单词清单]()
+- [3.2 A1 词汇清单]()
+- [3.3 A2 词汇清单]()
+- [3.4 B1 词汇清单]()
+- [3.5 B2 词汇清单]()
 
 - [结束语](end.md)
 
