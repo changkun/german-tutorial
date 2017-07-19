@@ -1,4 +1,4 @@
-# 05 副词
+# 1.7 副词
 
 副词用来描述 how, where, when, where to, where from, how long 或者 why happend。
 好消息是：副词不需要变格！并且很多副词的瓶邪、比较急和最高级都和形容词相同。
@@ -46,3 +46,5 @@
 
 ## 总结
 
+
+[返回目录](../README.md) [上一节 1.6 形容词](adjectives.md) [下一节 2.1 祈使句](imperative.md)

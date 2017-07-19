@@ -1,4 +1,4 @@
-# 03 代词
+# 1.3 代词
 
 代词（Pronouns），顾名思义作为为替代，是用于替代名词或者名词词组甚至一句话，进而避免重复使用的词。代词通常有这样几个类别：**人称代词**（Personal Pronouns）、**物主代词**（Prossesive Pronouns）、**指示代词**（Demonstrative Pronouns）、**疑问代词**（Interrogative Pronouns）、**反身代词**（Reflexive Pronouns）、**交互代词**（Reciprocal Pronouns）。
 
@@ -88,3 +88,7 @@ Der Assistent antwortet dem Abteilungsleiter. The assistant answers the head of 
 
 
 ## 总结
+
+
+
+[返回目录](../README.md) [上一节 1.2 名词](nouns.md) [下一节 1.4 介词](prepositions.md)

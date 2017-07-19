@@ -18,7 +18,8 @@
 
 本教程以一个计算机程序员的角度，混合中文、英文的思维，假定读者在精通中文、熟悉英语的前提下，
 尝试用对比的思维方式从零基础开始介绍德语，从中文为母语的角度来视图审视并解释英语和德语在表达上的优势，
-进而学到充分的德语知识。阅读完本教程，你能够：
+进而学到充分的德语知识。尽管本书涉及内容很多，但这不是一本完整的语法参考手册，本书的合理阅读时间为一个月。
+阅读完本教程，你能够：
 
 1. 理解德语到底是一门怎样的语言，为什么很多人认为德语很难；
 2. 学到阅读、理解德语最重要的、必备的语法知识（A1 ~ B2）；
@@ -29,39 +30,47 @@
 
 ### 第零部分 基础
 
-- [基础概念](basis.md)
-- [发音](pronounciation.md)
-- [基本词](base.md)
-- [构词法](formation.md)
+- [0.1 基础概念](grammar/basis.md)
+- [0.2 发音](grammar/pronounciation.md)
+- [0.3 基本词汇](grammar/base.md)
+- [0.4 构词](grammar/formation.md)
+- [0.5 词序](grammar/order.md)
 
 ### 第一部分 词法
 
-- [01 冠词](grammar/articles.md)
-- [02 名词](grammar/nouns.md)
-- [03 代词](grammar/pronouns.md)
-- [15 介词](grammar/prepositions.md)
-- [04 形容词](grammar/adjectives.md)
-- [05 副词](grammar/advers.md)
-- [06 语气词](grammar/modal.md)
-- [08 动词](grammar/verbs.md)
-- [07 词序](grammar/order.md)
+- [1.1 冠词 Articles](grammar/articles.md)
+- [1.2 名词 Nouns](grammar/nouns.md)
+- [1.3 代词 Pronouns](grammar/pronouns.md)
+- [1.4 介词 Prepositions](grammar/prepositions.md)
+- [1.5 动词 Verbs](grammar/verbs.md)
+- [1.6 形容词 Adjective](grammar/adjectives.md)
+- [1.7 副词 Adverbs](grammar/advers.md)
 
 ### 第二部分 句法
 
-- [09 现在时](grammar/present.md)
-- [10 祈使句](grammar/imperative.md)
-- [11 过去时](grammar/past.md)
-- [12 将来时](grammar/future.md)
-- [13 虚拟语态](grammar/subjunctive.md)
-- [14 被动语态](grammar/passive.md)
-- [16 连接词](grammar/linkers.md)
+- [2.1 现在时](grammar/present.md)
+- [2.2 过去时](grammar/past.md)
+- [2.3 「将来」时](grammar/future.md)
+- [2.4 虚拟语态](grammar/subjunctive.md)
+- [2.5 被动语态](grammar/passive.md)
+- [2.6 从句](grammar/linkers.md)
 
+### 第三部分 清单
 
-### 第四部分 索引
+- [3.1「与格」动词](wordlist/dative-verbs.md)
+- [3.2 A1 单词清单]()
+- [3.3 A2 单词清单]()
+- [3.4 B1 单词清单]()
+- [3.5 B2 单词清单]()
 
-- [「与格」动词](wordlist/dative-verbs.md)
 - [结束语](end.md)
 
+## TODO
+
+- [ ] 解释语言学基本知识
+- [ ] 完成全部正文内容
+- [ ] 在适当的部分插入适当的习题
+- [ ] 补充词汇表
 
 ## 纠错
 
