@@ -38,6 +38,55 @@
 
 ## 从属连词
 
+从属连词引导从句，从句是主句的一个组成部分，不能独立存在。在 [0.5 词序](order.md) 中已经讲过：**从句中的变位动词放在句尾**，主句和从句之间总是用逗号隔开。
+
+常用的从属连词有：
+
+| 连词      | 含义           | 例子                                                         |
+| ------- | ------------ | ---------------------------------------------------------- |
+| dass    | 引导宾语从句，*that* | Ich weiß, **dass** du recht hast.（我知道你是对的。）                  |
+| weil    | 因为           | Ich lerne Deutsch, **weil** ich in Deutschland arbeite.（我学德语，因为我在德国工作。） |
+| ob      | 是否，*whether*  | Ich weiß nicht, **ob** er heute kommt.（我不知道他今天来不来。）         |
+| wenn    | 如果；当……时      | **Wenn** es regnet, bleibe ich zu Hause.（如果下雨，我就待在家里。）     |
+| als     | 当……时（过去的一次）  | **Als** ich ein Kind war, wohnte ich in Peking.（我小时候住在北京。）   |
+| obwohl  | 虽然           | **Obwohl** es regnet, gehen wir spazieren.（虽然下雨，我们还是去散步。）  |
+| damit   | 以便           | Ich spreche langsam, **damit** du mich verstehst.（我说慢一点，好让你听懂。） |
+| bevor   | 在……之前        | **Bevor** ich esse, wasche ich mir die Hände.（吃饭前我先洗手。）      |
+| nachdem | 在……之后        | **Nachdem** er gegessen hatte, ging er spazieren.（他吃完饭之后去散步了。） |
+| während | 在……期间，而      | **Während** ich koche, hört er Musik.（我做饭的时候，他在听音乐。）       |
+| seit    | 自从           | **Seit** ich in Berlin wohne, fahre ich Fahrrad.（自从住在柏林，我就骑自行车了。） |
+| bis     | 直到           | Warte hier, **bis** ich zurückkomme!（在这里等着，直到我回来！）         |
+| sobald  | 一……就         | **Sobald** ich angekommen bin, rufe ich dich an.（我一到就给你打电话。） |
+| falls   | 万一，如果        | **Falls** du Fragen hast, schreib mir.（如果你有问题，就给我写信。）      |
+
+注意从句放在主句前面的那些例子：从句整体占据了第一位，所以主句要以变位动词开头（bleibe ich, wohnte ich, gehen wir …）。
+
+变位动词放在句尾时，可分动词的前缀和动词重新合在一起：Er kommt heute **an**. → …, dass er heute **ankommt**。如果有好几个动词，变位动词排在最后：…, dass er **gekommen ist**；…, dass er **kommen kann**。
+
+### 间接疑问句
+
+疑问词（wer, was, wo, wann, warum, wie …）也可以像从属连词一样引导从句，这就是间接疑问句。一般疑问句（没有疑问词）则用 ob 引导：
+
+- Wo wohnt er? → Weißt du, **wo** er **wohnt**?（你知道他住在哪里吗？）
+- Kommt er heute? → Ich frage mich, **ob** er heute **kommt**.（我在想他今天会不会来。）
+
+英语的间接疑问句同样不再倒装（*Do you know where he lives?*），只不过德语还要把动词挪到句尾。
+
+### wenn 和 als
+
+英语的 *when* 和 *if*，德语分别对应 als 和 wenn，但界限和英语不同：
+
+|      | 过去                     | 现在和将来   |
+| ---- | ---------------------- | ------- |
+| 一次   | als                    | wenn    |
+| 多次   | (immer) wenn           | wenn    |
+
+- **Als** ich in Berlin ankam, regnete es.（我到柏林的时候，正在下雨。）过去的一次
+- **Immer wenn** ich in Berlin war, regnete es.（我每次在柏林的时候都下雨。）过去的多次
+- **Wenn** ich in Berlin ankomme, rufe ich dich an.（我到柏林的时候给你打电话。）将来
+
+而英语中表示条件的 *if* 也是 wenn，表示「是否」的 *if* 则是 ob：Ich weiß nicht, **ob** ich komme.（我不知道我来不来。）
+
 ## 关系从句
 
 ## 不定式句
