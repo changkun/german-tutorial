@@ -94,4 +94,4 @@
 
 注意不要说 *Ich bin kalt*，那样听起来像是在说「我这个人很冷漠」，或者「我的身体摸起来是冷的」。
 
-[返回目录](../README.md) [上一节 2.6 连词与从句](../grammar/linkers.md) [下一节 结束语](../grammar/end.md)
+[返回目录](../README.md) [上一节 2.6 连词与从句](../grammar/linkers.md) [下一节 3.2 A1 词汇清单](A1/README.md)

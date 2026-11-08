@@ -34,4 +34,4 @@
 
 Viel Erfolg!（祝你成功！）
 
-[返回目录](../README.md) [上一节 3.1 「与格」动词](../wordlist/dative-verbs.md)
+[返回目录](../README.md) [上一节 3.2 A1 词汇清单](../wordlist/A1/README.md)
