@@ -146,4 +146,23 @@
 4. 关系代词的性和数取决于所修饰的名词，格取决于它在从句中的作用；关系代词不能省略，介词必须放在关系代词前面；
 5. 不定式句 = zu + 不定式，可分动词的 zu 插在中间；um … zu、ohne … zu、statt … zu 要求两个句子的主语相同。
 
+## 练习
+
+1. 分别用 weil、denn、deshalb 连接两个句子：Ich lerne Deutsch. Ich arbeite in Berlin.（第二句是原因）
+2. 填入 wenn 或 als：___ ich ein Kind war, spielte ich viel Fußball. / ___ du Zeit hast, ruf mich an! / Immer ___ es regnete, blieben wir zu Hause.
+3. 填入关系代词（必要时加介词）：Das ist der Mann, ___ ich geholfen habe. / Das ist die Frau, ___ ich liebe. / Das sind die Kinder, ___ Eltern in Berlin wohnen. / Das ist das Buch, ___ ich dir erzählt habe.（erzählen von）
+4. 改写成间接疑问句：Wo wohnt er? → Ich weiß nicht, … / Kommt sie heute? → Ich weiß nicht, …
+5. 用 um … zu 或 damit 连接：Ich lerne Deutsch. Ich will in Deutschland studieren. / Ich spreche langsam. Du verstehst mich.
+
+<details>
+<summary>答案</summary>
+
+1. Ich lerne Deutsch, weil ich in Berlin arbeite. / Ich lerne Deutsch, denn ich arbeite in Berlin. / Ich arbeite in Berlin, deshalb lerne ich Deutsch.
+2. Als（过去的一次性状态），Wenn（将来），wenn（过去的多次）。
+3. dem（helfen 支配与格），die，deren（复数属格），von dem。
+4. Ich weiß nicht, wo er wohnt. / Ich weiß nicht, ob sie heute kommt.
+5. Ich lerne Deutsch, um in Deutschland zu studieren.（主语相同）/ Ich spreche langsam, damit du mich verstehst.（主语不同）
+
+</details>
+
 [返回目录](../README.md) [上一节 2.5 被动语态](passive.md) [下一节 3.1 「与格」动词](../wordlist/dative-verbs.md)

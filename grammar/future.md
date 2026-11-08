@@ -72,4 +72,21 @@ werden 本身的意思是「成为」，所以 Er **wird** Arzt.（他会成为�
 4. 第二将来时常常被现在完成时 + 时间词代替；
 5. 表示将来的是 werden，不是 wollen。
 
+## 练习
+
+1. 翻译：I will help you. / He is probably ill.（大概 = wohl）
+2. 用现在时改写，表达同样的意思：Ich werde morgen nach Berlin fahren.
+3. Ich will kommen 和 Ich werde kommen 有什么区别？
+4. 翻译：By Friday I will have written the report.（到……为止 = bis，报告 = der Bericht）
+
+<details>
+<summary>答案</summary>
+
+1. Ich werde dir helfen. / Er wird wohl krank sein.
+2. Ich fahre morgen nach Berlin.
+3. Ich will kommen 是「我想来」，Ich werde kommen 是「我会来」。
+4. Bis Freitag werde ich den Bericht geschrieben haben. 口语中也可以说 Bis Freitag habe ich den Bericht geschrieben.
+
+</details>
+
 [返回目录](../README.md) [上一节 2.2 过去时](past.md) [下一节 2.4 虚拟语气](subjunctive.md)

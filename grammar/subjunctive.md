@@ -132,4 +132,21 @@ dürfen → dürfte，mögen → möchte，wissen → wüsste 也有变音；sol
 4. 第二虚拟式用于不真实的条件、愿望、礼貌的请求、建议和推测；
 5. 第二虚拟式完成时 = hätte/wäre + 第二分词，表示过去没有实现的事情。
 
+## 练习
+
+1. 用第一虚拟式改写成间接引语：Er sagt: „Ich bin krank." / Sie sagt: „Ich habe keine Zeit." / Sie sagen: „Wir haben keine Zeit."
+2. 用第二虚拟式填空：Wenn ich Geld ___（haben），___ ich ein Auto kaufen.
+3. 把请求改得更礼貌：Können Sie mir helfen?
+4. 翻译：If I had known that, I would have come.
+
+<details>
+<summary>答案</summary>
+
+1. Er sagt, er sei krank. / Sie sagt, sie habe keine Zeit. / Sie sagen, sie hätten keine Zeit.（第一虚拟式 sie haben 和陈述语气相同，所以改用第二虚拟式）
+2. hätte, würde。
+3. Könnten Sie mir helfen?
+4. Wenn ich das gewusst hätte, wäre ich gekommen.
+
+</details>
+
 [返回目录](../README.md) [上一节 2.3 「将来」时](future.md) [下一节 2.5 被动语态](passive.md)

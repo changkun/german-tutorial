@@ -229,4 +229,23 @@ passieren, geschehen 及具有相似含义的动词：
 4. 现在完成时 = haben/sein 的现在时 + 第二分词；表示位移、状态改变的动词以及 sein、bleiben、werden、passieren 用 sein，其余用 haben；
 5. 过去完成时 = haben/sein 的过去时 + 第二分词，表示过去的过去。
 
+## 练习
+
+1. 写出过去时的正确形式：ich ___（machen）/ er ___（gehen）/ wir ___（sein）/ du ___（haben）/ sie ___（können，单数）
+2. 写出第二分词：kaufen、studieren、besuchen、einkaufen、schreiben、anrufen、verstehen、bringen
+3. 填入 haben 或 sein 的正确形式：Ich ___ nach Berlin gefahren. / Wir ___ lange geschlafen. / Er ___ Arzt geworden. / Was ___ passiert? / Ich ___ das Auto in die Garage gefahren.
+4. 改成现在完成时：Ich stehe um sieben Uhr auf.
+5. 用过去完成时填空：Nachdem er ___ ___（essen），ging er spazieren.
+
+<details>
+<summary>答案</summary>
+
+1. machte, ging, waren, hattest, konnte。
+2. gekauft, studiert, besucht, eingekauft, geschrieben, angerufen, verstanden, gebracht。
+3. bin（位移），haben，ist（werden），ist（passieren），habe（带宾格宾语）。
+4. Ich bin um sieben Uhr aufgestanden.
+5. gegessen hatte。
+
+</details>
+
 [返回目录](../README.md) [上一节 2.1 现在时](present.md) [下一节 2.3 「将来」时](future.md)

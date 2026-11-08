@@ -129,4 +129,21 @@ du 的命令式有几个细节：
 4. 命令式有 du、ihr、Sie 三种形式，动词位于句首，可分前缀放在句尾；
 5. 用 bitte、语气词和情态动词问句可以让请求变得礼貌。
 
+## 练习
+
+1. 写出现在时的正确形式：du ___（fahren）/ er ___（lesen）/ du ___（arbeiten）/ er ___（nehmen）/ ich ___（wissen）/ wir ___（sein）
+2. 写出 du、ihr、Sie 三种命令式：lesen、fahren、aufstehen
+3. 翻译：「我在慕尼黑住了两年了。」
+4. 把下面的命令改成礼貌的请求：Mach das Fenster zu!
+
+<details>
+<summary>答案</summary>
+
+1. fährst, liest, arbeitest, nimmt, weiß, sind。
+2. Lies! Lest! Lesen Sie! / Fahr! Fahrt! Fahren Sie! / Steh auf! Steht auf! Stehen Sie auf!
+3. Ich wohne seit zwei Jahren in München.（seit + 现在时）
+4. Kannst du bitte das Fenster zumachen? 或者更礼貌的 Könnten Sie bitte das Fenster zumachen?
+
+</details>
+
 [返回目录](../README.md) [上一节 1.7 副词](advers.md) [下一节 2.2 过去时](past.md)

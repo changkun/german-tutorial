@@ -99,4 +99,23 @@
 5. man、sich lassen、sein + zu 和 -bar 形容词都可以替代被动式；
 6. 状态被动句 = sein + 第二分词，描述动作完成之后的结果。
 
+## 练习
+
+1. 改成被动句：Man repariert das Auto. / Der Arzt untersucht den Patienten.
+2. 把 Das Haus wird gebaut 改成过去时和现在完成时。
+3. 改成情态动词的被动式：Man muss die Rechnung bezahlen.
+4. 填入 wird 或 ist：Das Geschäft ___ um 20 Uhr geschlossen.（商店八点关门。）/ Jetzt ___ das Geschäft geschlossen.（现在商店关着门。）
+5. 改成被动句：Man hilft mir.
+
+<details>
+<summary>答案</summary>
+
+1. Das Auto wird repariert. / Der Patient wird vom Arzt untersucht.
+2. Das Haus wurde gebaut. / Das Haus ist gebaut worden.
+3. Die Rechnung muss bezahlt werden.
+4. wird（过程），ist（状态）。
+5. Mir wird geholfen.（与格保持不变，句子没有主语）
+
+</details>
+
 [返回目录](../README.md) [上一节 2.4 虚拟语气](subjunctive.md) [下一节 2.6 连词与从句](linkers.md)
