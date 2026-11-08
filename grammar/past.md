@@ -89,13 +89,22 @@
 
 我们需要第二分词来构成现在完成时，不过第二分词也用于过去完成时。
 
-- 现在完成时
-
-- 过去完成时
+- 现在完成时：Ich **habe** gestern einen Film **gesehen**.（我昨天看了一部电影。）
+- 过去完成时：Ich **hatte** den Film schon **gesehen**.（我那时已经看过这部电影了。）
 
 第二分词的构成有很多方式，下表进行了简单汇总：
 
+| 类型    | 第二分词的构成               | 例子                       |
+| ----- | --------------------- | ------------------------ |
+| 弱变化动词 | ge- + 词干 + -(e)t       | machen → gemacht         |
+| 强变化动词 | ge- + 词干（元音常有变化）+ -en | schreiben → geschrieben  |
+| 混合变化动词 | ge- + 变化后的词干 + -t      | bringen → gebracht       |
+
 变化最简单的动词是以 -ieren 结尾的动词：
+
+- studieren（上大学）→ studiert
+- telefonieren（打电话）→ telefoniert
+- reparieren（修理）→ repariert
 
 变第二分词时，将不定式词尾 -en 用 -t 替代即可，并且不加 ge-。由于德语不断吸收来自其他语言的新词，这类动词的数量持续增长，这点可能会让你略感欣慰。
 
@@ -103,11 +112,9 @@
 
 当然，即使是普通市民也不全都一样。弱变化动词可分为：
 
-- 基本动词
-
-- 带可分前缀的动词
-
-- 带不可分前缀的动词
+- 基本动词：machen → gemacht，kaufen → gekauft，arbeiten → gearbeitet
+- 带可分前缀的动词：ge- 插在前缀和词干之间。einkaufen → ein**ge**kauft，aufmachen → auf**ge**macht
+- 带不可分前缀的动词：不加 ge-。besuchen → besucht，verkaufen → verkauft
 
 每个国家都有普通公民，但也有与众不同的人，可以把它们称作特立独行的人，也就是不规则变化动词。
 
@@ -115,20 +122,34 @@
 
 特立独行者也可分为：
 
-- 基本动词
+- 基本动词：schreiben → geschrieben，sehen → gesehen，trinken → getrunken
+- 带可分前缀的动词：anrufen → an**ge**rufen，aufstehen → auf**ge**standen
+- 带不可分前缀的动词：verstehen → verstanden，bekommen → bekommen
 
-- 带可分前缀的动词
+下面我们还有一组类似于地下党的词，他们人数非常少，看起来与普通市民没什么两样，但内心中具有特立独行的气质，也就是所谓的混合变化动词。他们词干发生变化，但第二分词同时具有 ge- 和词尾 -(e)t：bringen → gebracht，denken → gedacht，kennen → gekannt，wissen → gewusst。
 
-- 带不可分前缀的动词
-
-下面我们还有一组类似于地下党的词，他们人数非常少，看起来与普通市民没什么两样，但内心中具有特立独行的气质，也就是所谓的混合变化动词。他们词干发生变化，但第二分词同时具有 ge- 和词尾 -(e)t。
+什么时候加 ge-，有一条简单的规则：**只有重音落在第一个音节上的动词，第二分词才加 ge-**。-ieren 动词的重音在 ie 上（stu**die**ren），不可分前缀从不重读（be**su**chen），所以它们都不加 ge-；可分前缀总是重读（**an**rufen），所以 ge- 插在前缀后面。重音规则见 [0.2 发音](pronounciation.md)。
 
 > 我们必须记住不规则动词和混合变化动词，最简单的方法就是，根据他们改变词干元音的方式分组记忆，有三种可能：
-> A - B - A
-> A - B - B
-> A - B - C
+>
+> - A - B - A：fahren – fuhr – gefahren，kommen – kam – gekommen，lesen – las – gelesen，geben – gab – gegeben，schlafen – schlief – geschlafen，laufen – lief – gelaufen
+> - A - B - B：bleiben – blieb – geblieben，schreiben – schrieb – geschrieben，stehen – stand – gestanden，fliegen – flog – geflogen，bringen – brachte – gebracht
+> - A - B - C：sprechen – sprach – gesprochen，helfen – half – geholfen，trinken – trank – getrunken，finden – fand – gefunden，nehmen – nahm – genommen，gehen – ging – gegangen
+>
+> 这里的 A、B、C 分别指不定式、过去时和第二分词的词干元音。
 
 > 不规则变化动词和混合变化动词必须熟记。最后将第二分词的变化总结如下：
+
+| 动词类型       | 第二分词的构成               | 例子                         |
+| ---------- | --------------------- | -------------------------- |
+| -ieren 动词  | 词干 + -t，不加 ge-         | studieren → studiert       |
+| 弱变化        | ge- + 词干 + -(e)t       | machen → gemacht           |
+| 弱变化，可分前缀   | 前缀 + ge- + 词干 + -(e)t  | einkaufen → eingekauft     |
+| 弱变化，不可分前缀  | 词干 + -(e)t，不加 ge-     | besuchen → besucht         |
+| 强变化        | ge- + 词干 + -en         | schreiben → geschrieben    |
+| 强变化，可分前缀   | 前缀 + ge- + 词干 + -en    | anrufen → angerufen        |
+| 强变化，不可分前缀  | 词干 + -en，不加 ge-       | verstehen → verstanden     |
+| 混合变化       | ge- + 变化后的词干 + -t      | bringen → gebracht         |
 
 ## 现在完成时
 
