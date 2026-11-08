@@ -1,0 +1,6 @@
+{
+  "model": "gpt-4o-mini-tts",
+  "voice": "marin",
+  "instructions": "The text is German. Speak it as a native speaker of standard German (Hochdeutsch): read it exactly as written and pronounce every word as German, even short words that look like English. Calm, clear and natural, at a pace suited to language learners. When the text is a list of words, pause briefly at each comma.",
+  "word_instructions": "The text is one German word or a German word with its forms. Say it once, clearly, as a native speaker of standard German (Hochdeutsch) would say it, with German vowels and German word stress. Do not add anything."
+}
