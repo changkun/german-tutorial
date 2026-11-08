@@ -28,6 +28,8 @@
 | d     | t         | day – Tag，daughter – Tochter，do – tun          |
 | th    | d         | three – drei，think – denken，brother – Bruder   |
 
+严格来说，最后一行 th → d 是稍晚的另一次变化，荷兰语也经历了这个变化（drie, denken），并不只是高地德语的特点。不过对于猜词来说，把它们当成同一组替换规则就足够了。
+
 ## 为什么很多人认为德语很难？
 
 我们可以从语言类型上来回答这个问题。语言学里有两类极端：
