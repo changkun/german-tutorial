@@ -243,4 +243,4 @@ die Steuer 是「税」，das Steuer 却是汽车的「方向盘」。leihen 既
 
 nämlich 用来补充说明原因，不能放在句首：Ich komme heute nicht, ich bin **nämlich** krank.（我今天不来了，因为我病了。）
 
-[返回目录](../../README.md) [上一节 3.3 A2 词汇清单](../A2/README.md) [下一节 结束语](../../grammar/end.md)
+[返回目录](../../README.md) [上一节 3.3 A2 词汇清单](../A2/README.md) [下一节 3.5 B2 词汇清单](../B2/README.md)

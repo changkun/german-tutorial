@@ -61,7 +61,7 @@
 - [3.2 A1 词汇清单](wordlist/A1/README.md)
 - [3.3 A2 词汇清单](wordlist/A2/README.md)
 - [3.4 B1 词汇清单](wordlist/B1/README.md)
-- [3.5 B2 词汇清单]()
+- [3.5 B2 词汇清单](wordlist/B2/README.md)
 
 - [结束语](grammar/end.md)
 
