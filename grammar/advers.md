@@ -47,4 +47,4 @@
 ## 总结
 
 
-[返回目录](../README.md) [上一节 1.6 形容词](adjectives.md) [下一节 2.1 祈使句](imperative.md)
+[返回目录](../README.md) [上一节 1.6 形容词](adjectives.md) [下一节 2.1 现在时](present.md)

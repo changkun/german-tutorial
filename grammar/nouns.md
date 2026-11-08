@@ -172,7 +172,7 @@
   - Mr Graf is helping **the sales assistant**.
   - Graf 先生帮助**销售助理**。
 
-这样的词还有很多，你可以参考 [dative-verbs](../wordlist/dative-verb.md) 这个词汇表来背诵它们。
+这样的词还有很多，你可以参考 [dative-verbs](../wordlist/dative-verbs.md) 这个词汇表来背诵它们。
 
 ------
 

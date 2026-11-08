@@ -255,4 +255,4 @@ X Y Z ä ö ü ß
   - 科隆狂欢节 Kölner Karneval
 - ……
 
-[返回目录](../README.md) [上一节 0.1 基本概念](basis.md) [下一节 基本词汇](base.md)
+[返回目录](../README.md) [上一节 0.1 基础概念](basis.md) [下一节 0.3 基本词汇](base.md)
