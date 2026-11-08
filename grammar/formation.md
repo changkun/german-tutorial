@@ -94,9 +94,20 @@
 - die Aprikosen(复数) + die Marmelade = die Aprikosenmarmelade
 - die Kinder(复数) + der Garten = der Kindergarten
 
+这些夹在两个词之间的字母，叫做**连接成分**（Fugenelement）。什么时候加、加什么，并没有严格的规则，只能多见多记，但有几条经验可循：
+
+| 连接成分    | 常见情况                                         | 例子                                                        |
+| ------- | -------------------------------------------- | --------------------------------------------------------- |
+| -s-     | 前一个词以 -ung, -heit, -keit, -schaft, -ion, -tät, -ling 结尾时，几乎总要加 | der Zeitung**s**artikel，der Universität**s**professor，die Liebling**s**farbe |
+| -(e)n-  | 前一个词是以 -e 结尾的阴性名词，或者属于 n 变化的名词（见 [1.2 名词](nouns.md)） | die Straße**n**bahn，die Tasche**n**lampe，der Student**en**ausweis |
+| -er-    | 前一个词的复数以 -er 结尾                              | das Kind**er**zimmer，das Bild**er**buch                     |
+| -e-     | 少数单音节名词                                      | die Hund**e**hütte，das Tag**e**buch                          |
+| 去掉 -e   | 一些以 -e 结尾的名词                                 | die Schule + das Buch = das Schulbuch，die Sprache + der Kurs = der Sprachkurs |
+| 去掉 -en  | 动词作为前一部分时，只用词干                               | schlafen + das Zimmer = das Schlafzimmer，wohnen + die Gemeinschaft = die Wohngemeinschaft |
+
 ## 派生词
 
-通过给现有的基本成分添加前缀或后缀，可以派生出新的单词，也就是派生词（Derivative Word）。
+通过给现有的基本成分添加前缀或后缀，可以派生出新的单词，也就是派生词（derivative，Ableitung）。
 这类词有很大不同，比如动词常常就需要去掉不定式词尾。
 
 - programmieren - der Programmierer - die Programmiererin
@@ -150,6 +161,46 @@
 - der Wind + -ig = windig
     + wind => windy
 
+下表列出了常见的名词后缀和它们决定的性别。遇到一个不认识的长名词时，只要看一眼它的结尾，往往就能猜对冠词，更多的规律见 [1.2 名词](nouns.md)：
+
+| 后缀                        | 性别  | 例子                                         |
+| ------------------------- | --- | ------------------------------------------ |
+| -ung, -heit, -keit, -schaft | die | die Wohnung，die Freiheit，die Möglichkeit，die Freundschaft |
+| -ion, -tät, -ei, -ie, -ik  | die | die Information，die Universität，die Bäckerei，die Technik |
+| -in（女性）                   | die | die Lehrerin，die Ärztin                      |
+| -er（做某事的人或工具）、-ling, -ismus | der | der Lehrer，der Computer，der Lehrling，der Tourismus |
+| -chen, -lein（指小）            | das | das Mädchen，das Büchlein                     |
+| -um, -ment                 | das | das Zentrum，das Dokument                     |
+
+常见的形容词后缀如下，其中有好几个和英语的后缀一一对应：
+
+| 后缀     | 含义                  | 例子                                          |
+| ------ | ------------------- | ------------------------------------------- |
+| -lich  | 有……性质的，每……的         | freundlich（友好的，der Freund），täglich（每天的，der Tag） |
+| -ig    | 有……的，相当于英语的 -y      | windig（有风的），sonnig（晴朗的），lustig（有趣的）           |
+| -isch  | 属于……的，相当于英语的 -ish/-ic | chinesisch（中国的），typisch（典型的），praktisch（实用的）    |
+| -bar   | 可以被……的，相当于英语的 -able  | machbar（可行的），essbar（可以吃的），lesbar（可读的）        |
+| -los   | 没有……的，相当于英语的 -less  | arbeitslos（失业的），kostenlos（免费的），hoffnungslos（没有希望的） |
+| -voll  | 充满……的，相当于英语的 -ful   | hoffnungsvoll（充满希望的），liebevoll（充满爱的）          |
+| -haft  | 像……一样的              | frühlingshaft（春天般的），lebhaft（活泼的）             |
+
+## 词类转换
+
+德语里还有一种不加任何词缀、直接改变词类的构词方式，最常见的有三种：
+
+- **动词不定式作名词**，一律是中性，首字母大写：essen → das Essen（饭，进食），leben → das Leben（生活，生命），rauchen → das Rauchen（吸烟）。禁烟标志上写的就是 Rauchen verboten!（禁止吸烟！）
+- **形容词作名词**，首字母大写，词尾仍然按形容词变化（见 [1.6 形容词](adjectives.md)）：deutsch → der Deutsche / ein Deutscher（德国人），neu → das Neue（新东西）。Was gibt's Neues?（有什么新鲜事吗？）
+- **动词词干作名词**，大多是阳性，常常伴随元音变化：kaufen → der Kauf（购买），beginnen → der Beginn（开始），fliegen → der Flug（飞行，航班），springen → der Sprung（跳跃）。
+
+## 动词前缀
+
+动词加上前缀，可以构成意思相关、但又不太一样的新动词。同一个基本动词，常常能派生出一大家子：
+
+- kommen（来）→ ankommen（到达），mitkommen（一起来），zurückkommen（回来），bekommen（得到）
+- stehen（站）→ aufstehen（起床），verstehen（理解），bestehen（通过考试；存在），entstehen（产生）
+
+注意 bekommen 的意思是「得到」，而不是英语的 *become*，这是一对著名的「假朋友」（false friends）。前缀分为可分前缀和不可分前缀两种，它们决定了动词在句子中的行为，见 [1.5 动词](verbs.md)。
+
 
 ## 总结
 
@@ -157,6 +208,8 @@
 
 1. 长长的德语单词通常是由多个基本词组合拼接而成
 2. 最后一个单词总是做中心词，而在组成的名词中，**最后一个词决定了名词的性别**
-3. 派生词由增加前缀和后缀构成，一些常见的词缀有：-er/-erin/-heit/-ung/-lich/-(s)haft/-los/-ig/be-/in-/un-
+3. 两个词之间有时需要连接成分，最常见的是 -s- 和 -(e)n-
+4. 派生词由增加前缀和后缀构成，一些常见的词缀有：-er/-in/-heit/-keit/-ung/-lich/-haft/-los/-ig/-bar/be-/un-/in-；名词后缀决定名词的性别
+5. 动词不定式、形容词和动词词干可以直接转换成名词
 
 [返回目录](../README.md) [上一节 0.3 基本词汇](base.md) [下一节 0.5 词序](order.md)
