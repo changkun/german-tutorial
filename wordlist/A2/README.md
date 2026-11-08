@@ -1,6 +1,6 @@
 # 3.3 A2 词汇清单
 
-本清单按主题收集了 A2 阶段的核心词汇，在 [3.2 A1 词汇清单](../A1/README.md) 的基础上扩展，已经出现过的词不再重复。和 A1 清单一样，这是本教程自己挑选的词汇，不对应某一本教材或某一份官方词表。
+本清单按主题收集了 A2 阶段的核心词汇，在 [3.2 A1 词汇清单](../A1/README.md) 的基础上扩展，已经出现过的词不再重复（位置动词和带介词的动词两张表为了配对，会重复少数 A1 动词）。和 A1 清单一样，这是本教程自己挑选的词汇，不对应某一本教材或某一份官方词表。
 
 写法约定和 A1 清单相同：名词给出定冠词和复数；不规则变化动词和现在完成时用 sein 的动词给出第三人称单数现在时、过去时和现在完成时；可分动词给出第三人称单数现在时。此外，本清单开始标出动词要求的介词和格，比如 warten auf + 宾格，因为这类搭配和名词的性一样，只能连同单词一起记。
 
@@ -31,7 +31,7 @@
 | packen                              | to pack                   | 打包，收拾行李     |
 | mitnehmen (nimmt mit, nahm mit, hat mitgenommen) | to take along | 带走，随身带   |
 | verbringen (verbringt, verbrachte, hat verbracht) | to spend (time) | 度过       |
-| das Wetter（无复数）                    | weather                   | 天气          |
+| das Wetter（通常无复数）                  | weather                   | 天气          |
 | die Sonne, die Sonnen               | sun                       | 太阳          |
 | der Regen（通常无复数）                   | rain                      | 雨           |
 | der Schnee（无复数）                    | snow                      | 雪           |
@@ -40,13 +40,13 @@
 | schneien                            | to snow                   | 下雪          |
 | scheinen (scheint, schien, hat geschienen) | to shine; to seem  | 照耀；似乎      |
 
-der See 是「湖」，die See 却是「海」（多用于北德，和 das Meer 同义），复数也不同：die Seen 只用于湖。
+der See 是「湖」，die See 却是「海」（和 das Meer 同义，如 Nordsee、Ostsee、an die See fahren），表示「海」时没有复数；die Seen 是 der See（湖）的复数。
 
 ## 服装
 
 | 德语                                  | 英语                        | 中文          |
 | ----------------------------------- | ------------------------- | ----------- |
-| die Kleidung（无复数）                  | clothing                  | 衣服（总称）      |
+| die Kleidung（通常无复数）                | clothing                  | 衣服（总称）      |
 | das Kleid, die Kleider              | dress; (pl.) clothes      | 连衣裙；（复数）衣服  |
 | die Hose, die Hosen                 | trousers                  | 裤子          |
 | der Rock, die Röcke                 | skirt                     | 裙子          |
@@ -95,10 +95,10 @@ die Hose 是单数，表示「一条裤子」：Die Hose **ist** zu lang.（这�
 | 德语                                  | 英语                        | 中文          |
 | ----------------------------------- | ------------------------- | ----------- |
 | der Alltag（通常无复数）                  | everyday life             | 日常生活        |
-| die Freizeit（无复数）                  | free time                 | 业余时间        |
+| die Freizeit（通常无复数）                | free time                 | 业余时间        |
 | der Haushalt, die Haushalte         | household; housework      | 家庭；家务       |
 | der Müll（无复数）                      | rubbish, garbage          | 垃圾          |
-| die Wäsche（通常无复数）                  | laundry                   | 要洗的衣物       |
+| die Wäsche（通常无复数）                  | laundry                   | （要洗或洗好的）衣物  |
 | aufräumen (räumt auf)               | to tidy up                | 收拾，整理       |
 | putzen                              | to clean                  | 打扫，擦洗       |
 | waschen (wäscht, wusch, hat gewaschen) | to wash                | 洗           |
@@ -206,7 +206,7 @@ Weihnachten 和 Ostern 一般不加冠词：**an** Weihnachten 或 **zu** Weihna
 | überweisen (überweist, überwies, hat überwiesen) | to transfer (money) | 转账   |
 | die Polizei（通常无复数）                 | police                    | 警察（总称）      |
 
-在德国住下来的第一件事，通常是去市政府登记住址：sich **anmelden**（登记户口）。
+在德国住下来的第一件事，通常是去市政府登记住址：sich **anmelden**（登记住址）。
 
 ## 感受与性格
 
@@ -215,7 +215,7 @@ Weihnachten 和 Ostern 一般不加冠词：**an** Weihnachten 或 **zu** Weihna
 | das Gefühl, die Gefühle             | feeling                   | 感觉，感情       |
 | die Angst, die Ängste               | fear                      | 害怕，恐惧       |
 | die Freude, die Freuden             | joy                       | 快乐，高兴       |
-| die Liebe（无复数）                     | love                      | 爱情，爱        |
+| die Liebe（通常无复数）                   | love                      | 爱情，爱        |
 | glücklich                           | happy; lucky              | 幸福的；幸运的     |
 | zufrieden                           | satisfied, content        | 满意的         |
 | stolz                               | proud                     | 骄傲的         |
@@ -267,7 +267,7 @@ Weihnachten 和 Ostern 一般不加冠词：**an** Weihnachten 或 **zu** Weihna
 | sprechen über + 宾格                 | to talk about             | 谈论          |
 | träumen von + 与格                   | to dream of               | 梦见，梦想       |
 | Angst haben vor + 与格               | to be afraid of           | 害怕          |
-| teilnehmen an + 与格 (nimmt teil, nahm teil, hat teilgenommen) | to take part in | 参加 |
+| teilnehmen (nimmt teil, nahm teil, hat teilgenommen) an + 与格 | to take part in | 参加 |
 
 问这些介词的宾语时，指物用 wo(r) + 介词，指人用介词 + 疑问代词：**Worauf** wartest du? – Auf den Bus.（你在等什么？——等公共汽车。）**Auf wen** wartest du? – Auf meinen Bruder.（你在等谁？——等我哥哥。）
 
