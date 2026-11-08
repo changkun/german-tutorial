@@ -99,8 +99,63 @@ else:                              # 没有冠词，或 ein/kein/mein 这类没�
 - 很多单音节形容词的 a, o, u 在比较级和最高级中要变成 ä, ö, ü：alt → älter，groß → größer，jung → jünger；
 - 其他不规则变化有：
 
+| 原级   | 比较级    | 最高级           | 英语                     |
+| ---- | ------ | ------------- | ---------------------- |
+| gut  | besser | am besten     | good – better – best   |
+| viel | mehr   | am meisten    | much – more – most     |
+| gern | lieber | am liebsten   | gladly – rather – most of all |
+| hoch | höher  | am höchsten   | high – higher – highest |
+| nah  | näher  | am nächsten   | near – nearer – nearest |
+
+可以看出，最不规则的那几个，英语和德语恰好一模一样不规则。gern 其实是副词，Ich trinke **gern** Tee / **lieber** Kaffee / **am liebsten** Wasser 的意思是「我喜欢喝茶 / 更喜欢喝咖啡 / 最喜欢喝水」，非常常用。
+
+下面是规则变化的几个例子：
+
+| 原级      | 比较级       | 最高级              |
+| ------- | --------- | ---------------- |
+| schnell | schneller | am schnellsten   |
+| klein   | kleiner   | am kleinsten     |
+| alt     | älter     | am ältesten      |
+| jung    | jünger    | am jüngsten      |
+| groß    | größer    | am größten       |
+| teuer   | teurer    | am teuersten     |
+
+注意德语的比较级和最高级一律在词尾变化，不像英语那样对长单词用 *more* 和 *most*：interessant → interessanter → am interessantesten（*interesting → more interesting → most interesting*）。
+
+### 比较的句式
+
+- **so + 原级 + wie**，表示「和……一样」：Er ist **so groß wie** ich.（他和我一样高。）
+- **比较级 + als**，表示「比……更」：Er ist **größer als** ich.（他比我高。）
+
+注意比较级后面用 als，不用 wie。als 和 wie 后面的名词或代词与前面被比较的部分用同一个格，这里的 ich 是主格，因为它和主语 er 相比。
+
+### 作定语的比较级和最高级
+
+比较级和最高级放在名词前面时，和原级一样要加形容词词尾：
+
+- Ich suche eine **größere** Wohnung.（我在找一套更大的房子。）
+- Das ist der **schnellste** Zug.（这是最快的火车。）
+
+作表语时，最高级既可以用 am -sten，也可以用「定冠词 + 最高级 + 词尾」：Dieser Zug ist **am schnellsten**. = Dieser Zug ist **der schnellste**.（这列火车最快。）
+
+mehr（更多）和 weniger（更少）永远不变格：Ich brauche **mehr** Zeit.（我需要更多时间。）
+
+## 分词作形容词
+
+动词的两种分词都可以作形容词使用，放在名词前面时同样要加形容词词尾：
+
+- **第一分词**（现在分词）= 不定式 + -d，表示主动、正在进行，相当于英语的 *-ing*：das schlafen**d**e Kind（正在睡觉的孩子），kommen**d**e Woche（下周）。
+- **第二分词**（过去分词），表示被动、已经完成，相当于英语的 *-ed*：das gekocht**e** Ei（煮熟的鸡蛋），ein geöffnet**es** Fenster（一扇打开的窗户）。
+
+第二分词的构成见 [2.2 过去时](past.md)。
+
 ## 总结
 
-
+1. 形容词作表语或副词时不变化，作定语放在名词前面时要变格；
+2. 冠词已经标明了性、数、格时，形容词用弱词尾 -e/-en；冠词没有标明时，形容词用和定冠词相同的强词尾；
+3. 因此形容词变格分为三种：定冠词之后的弱变化、ein 类词之后的混合变化、没有冠词时的强变化；
+4. 比较级加 -er，最高级为 am -(e)sten，单音节形容词的 a、o、u 常常变音；gut、viel、gern、hoch、nah 不规则变化；
+5. 「一样」用 so … wie，「比……更」用比较级 + als；
+6. 分词也可以作形容词使用，第一分词表示主动，第二分词表示被动或完成。
 
 [返回目录](../README.md) [上一节 1.5 动词](verbs.md) [下一节 1.7 副词](advers.md)
