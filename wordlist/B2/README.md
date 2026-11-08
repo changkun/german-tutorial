@@ -20,7 +20,7 @@ B2 阶段的目标是能读懂报纸、专业文章，能就抽象话题进行�
 | das Recht, die Rechte               | right; law                | 权利；法       |
 | die Pflicht, die Pflichten          | duty                      | 义务          |
 | die Verantwortung（通常无复数）           | responsibility            | 责任          |
-| die Bevölkerung, die Bevölkerungen  | population                | 人口，居民       |
+| die Bevölkerung（通常无复数）             | population                | 人口，居民       |
 | die Mehrheit, die Mehrheiten        | majority                  | 多数          |
 | die Minderheit, die Minderheiten    | minority                  | 少数          |
 | die Öffentlichkeit（无复数）              | the public                | 公众          |
@@ -53,7 +53,7 @@ B2 阶段的目标是能读懂报纸、专业文章，能就抽象话题进行�
 | das Experiment, die Experimente     | experiment                | 实验          |
 | die Analyse, die Analysen           | analysis                  | 分析          |
 | analysieren                         | to analyse                | 分析          |
-| die Daten（只有复数）                    | data                      | 数据          |
+| die Daten（「数据」的意思只有复数）           | data                      | 数据          |
 | der Beweis, die Beweise             | proof, evidence           | 证明，证据       |
 | beweisen (beweist, bewies, hat bewiesen) | to prove             | 证明          |
 | nachweisen (weist nach, wies nach, hat nachgewiesen) | to demonstrate, to detect | 证实，检测出 |
@@ -63,7 +63,7 @@ B2 阶段的目标是能读懂报纸、专业文章，能就抽象话题进行�
 | die Wirkung, die Wirkungen          | effect                    | 效果，作用       |
 | wirken                              | to have an effect; to seem | 起作用；显得     |
 
-die Daten 在这里是「数据」的复数，它的单数 das Datum 却是「日期」。说「一条数据」要用 die Angabe 或者 der Datensatz。
+die Daten 表示「数据」时没有单数。das Datum 是「日期」，它的复数也是 die Daten（Geburtsdaten 出生日期）。说「一条数据」要用 die Angabe 或者 der Datensatz。
 
 ## 软件开发
 
@@ -104,7 +104,7 @@ die Daten 在这里是「数据」的复数，它的单数 das Datum 却是「�
 
 | 德语                                  | 英语                        | 中文          |
 | ----------------------------------- | ------------------------- | ----------- |
-| die Medien（只有复数）                   | the media                 | 媒体          |
+| das Medium, die Medien              | medium; (pl.) the media   | 媒介；（复数）媒体   |
 | die Quelle, die Quellen             | source                    | 来源，出处；泉     |
 | der Bericht, die Berichte           | report                    | 报告，报道       |
 | berichten                           | to report                 | 报道（über + 宾格） |
@@ -195,7 +195,7 @@ die Medien 的单数是 das Medium。和 das Museum → die Museen 一样，这�
 
 用程序员的话说，功能动词结构就像是一种更啰嗦但更正式的 API：eine Entscheidung treffen 和 entscheiden 的返回值相同，只是调用方式不同。
 
-## 连接词与副词
+## 连接词、副词与介词
 
 | 德语                                  | 英语                        | 中文          |
 | ----------------------------------- | ------------------------- | ----------- |
