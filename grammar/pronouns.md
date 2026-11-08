@@ -1,12 +1,12 @@
 # 1.3 代词
 
-代词（Pronouns），顾名思义作为为替代，是用于替代名词或者名词词组甚至一句话，进而避免重复使用的词。代词通常有这样几个类别：**人称代词**（Personal Pronouns）、**物主代词**（Prossesive Pronouns）、**指示代词**（Demonstrative Pronouns）、**疑问代词**（Interrogative Pronouns）、**反身代词**（Reflexive Pronouns）、**交互代词**（Reciprocal Pronouns）。
+代词（Pronouns），顾名思义作为为替代，是用于替代名词或者名词词组甚至一句话，进而避免重复使用的词。代词通常有这样几个类别：**人称代词**（Personal Pronouns）、**物主代词**（Possessive Pronouns）、**指示代词**（Demonstrative Pronouns）、**疑问代词**（Interrogative Pronouns）、**反身代词**（Reflexive Pronouns）、**交互代词**（Reciprocal Pronouns）。
 
 - Milena kauft diesen Computer.
 - **Sie** kauft **ihn**.
-- Das ist **meine**.
+- Das ist **meiner**.
 
-与定冠词、不定冠词一样，有些**代词也可以加名词**。这些代词在德语中称之为**物主冠词**（Prossesive Articles），类似于英语中的物主形容词（my/your/his 等）。
+与定冠词、不定冠词一样，有些**代词也可以加名词**。这些代词在德语中称之为**物主冠词**（Possessive Articles），类似于英语中的物主形容词（my/your/his 等）。
 
 这些（形容词性的）代词和他们修饰的名词的性别、数量、格相同。
 
@@ -39,11 +39,11 @@ Der Assistent antwortet dem Abteilungsleiter. The assistant answers the head of 
 | 复数   | 第一人称            | 第二人称         | 第三人称    | 尊称      |
 | ---- | --------------- | ------------ | ------- | ------- |
 | 主格   | wir             | ihr          | sie     | Sie     |
-| 属格   | (unser/unserer) | (euer/eurer) | (ihrer) | (Ihrer) |
+| 属格   | (unser)         | (euer)       | (ihrer) | (Ihrer) |
 | 与格   | uns             | euch         | ihnen   | Ihnen   |
 | 宾格   | uns             | euch         | sie     | Sie     |
 
-> 当说话对象是孩子、朋友、家庭成员时，我们使用代词第二人称的非正式形式单数 du 和复数 ihr。同时之间如果关系好，也常常使用 du/ihr 的形式。尊称 Sie 即使代数也是复数，主要用于陌生人以及不太熟的人之间。工作中的同事使用尊称 Sie 来称呼的情况也很常见，尽管他们已经认识多年了。
+> 当说话对象是孩子、朋友、家庭成员时，我们使用代词第二人称的非正式形式单数 du 和复数 ihr。同事之间如果关系好，也常常使用 du/ihr 的形式。尊称 Sie 无论指一个人还是多个人，动词都按复数变位，主要用于陌生人以及不太熟的人之间。工作中的同事使用尊称 Sie 来称呼的情况也很常见，尽管他们已经认识多年了。
 
 尊称 Sie/Ihnen 的单数和复数形式相同。首字母要大写。
 
@@ -59,10 +59,11 @@ Der Assistent antwortet dem Abteilungsleiter. The assistant answers the head of 
 
 物主代词在德语中又可以称之为物主冠词。物主冠词用以指出物品的所属人。
 
-使用哪个物主冠词，由某物的人来决定：
+使用哪个物主冠词，由拥有某物的人来决定：
 
-| ich  | I                   | mein  | my    |
+| 人称代词 | 英语                  | 物主冠词  | 英语    |
 | ---- | ------------------- | ----- | ----- |
+| ich  | I                   | mein  | my    |
 | du   | you                 | dein  | your  |
 | Sie  | you, formal         | Ihr   | your  |
 | er   | he                  | sein  | his   |
@@ -73,7 +74,7 @@ Der Assistent antwortet dem Abteilungsleiter. The assistant answers the head of 
 | sie  | they                | ihr   | their |
 | Sie  | you, plural, formal | Ihr   | your  |
 
-物主冠词和与不定冠词的使用规则相同。
+物主冠词的词尾变化和不定冠词相同。
 
 物主冠词的选择和物主冠词词尾：
 
