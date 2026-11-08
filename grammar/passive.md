@@ -71,10 +71,32 @@
 
 如果想保持客观，但不想使用被动式，还有几种可以使用的被动式替代形式。有些英语中近似，有些则完全不同。
 
+- **man + 主动句**：这是口语中最常用的替代形式。Man repariert das Auto.（人们在修车。= 车在修理。）英语里相应的说法是 *they/you*：*They're repairing the car*。
+- **sich lassen + 不定式**，表示「可以被……」：Das **lässt sich** leicht **erklären**.（这很容易解释。= Das kann leicht erklärt werden.）
+- **sein + zu + 不定式**，表示「必须被……」或「可以被……」，要看上下文：Die Rechnung **ist** bis Montag **zu bezahlen**.（账单必须在周一前付清。）Das **ist** nicht **zu ändern**.（这是改变不了的。）英语里也有类似的说法：*This is to be done by Monday*。
+- **以 -bar 结尾的形容词**，相当于英语的 *-able*：Das Wasser ist **trinkbar**.（这水可以喝。= Das Wasser kann getrunken werden.）见 [0.4 构词](formation.md)。
+
 ## 状态被动句
 
 德语中有两种被动句。除了说明动作或事件的被动句，还有一种描述状态、情形或者结果的被动句。后者并不常见。
 
 描述状态的被动句几乎只用于一般现在时和一般过去时中。通过 sein，而不是 werden 的相应形式构成。
+
+| 过程被动句（werden）                      | 状态被动句（sein）                       |
+| ---------------------------------- | -------------------------------- |
+| Die Tür **wird** geöffnet.（门正在被打开。）  | Die Tür **ist** geöffnet.（门开着。）    |
+| Das Geschäft **wird** um 20 Uhr geschlossen.（商店八点关门。） | Das Geschäft **ist** geschlossen.（商店关着门。） |
+| Der Tisch **wurde** gedeckt.（有人摆好了餐桌。）  | Der Tisch **war** gedeckt.（餐桌已经摆好了。） |
+
+过程被动句描述的是一个动作，状态被动句描述的则是这个动作完成之后留下的结果。英语的 *The door is opened* 既可以是前者也可以是后者，德语则用 werden 和 sein 把它们清楚地区分开了。
+
+## 总结
+
+1. 过程被动句 = werden + 第二分词，主动句的宾格宾语变成被动句的主语，动作发出者用 von 引出，手段或原因用 durch 引出；
+2. 被动式可以用于所有时态和语气，现在完成时用 sein … worden，而不是 geworden；
+3. 情态动词的被动式 = 情态动词 + 第二分词 + werden；
+4. 德语中不及物动词也可以构成没有主语的被动句；与格宾语在被动句中仍然是与格；
+5. man、sich lassen、sein + zu 和 -bar 形容词都可以替代被动式；
+6. 状态被动句 = sein + 第二分词，描述动作完成之后的结果。
 
 [返回目录](../README.md) [上一节 2.4 虚拟语气](subjunctive.md) [下一节 2.6 连词与从句](linkers.md)
