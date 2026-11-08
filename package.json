@@ -1,0 +1,22 @@
+{
+  "name": "german-tutorial",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "德语零基础教程：网站构建脚本",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node site/build.mjs",
+    "dev": "node site/dev.mjs",
+    "check": "node site/check.mjs"
+  },
+  "dependencies": {
+    "markdown-it": "^15.0.2"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.63.0"
+  },
+  "license": "CC-BY-NC-ND-4.0"
+}
