@@ -173,11 +173,73 @@ euer 加上词尾时，通常省去中间的 e：eure Kinder，euren Lehrer（�
 
 ## 反身代词
 
+当宾语和主语是同一个人时，就要用反身代词，相当于英语的 *myself/yourself*、中文的「自己」。德语的反身代词绝大部分和人称代词相同，只有第三人称和尊称 Sie 用 **sich**：
+
+|    | ich  | du   | er/sie/es | wir | ihr  | sie/Sie |
+| -- | ---- | ---- | --------- | --- | ---- | ------- |
+| 宾格 | mich | dich | sich      | uns | euch | sich    |
+| 与格 | mir  | dir  | sich      | uns | euch | sich    |
+
+- Ich wasche **mich**. I'm washing (myself). 我在洗澡。（宾格，洗的是我自己）
+- Ich wasche **mir** die Hände. I'm washing my hands. 我在洗手。（与格，因为句子里已经有了宾格宾语 die Hände）
+
+德语有很多**反身动词**，它们总是带着反身代词使用，而对应的英语动词常常不需要 *oneself*：
+
+| 德语                         | 英语                   | 中文      |
+| -------------------------- | -------------------- | ------- |
+| sich freuen                | to be glad           | 高兴      |
+| sich beeilen               | to hurry             | 赶紧      |
+| sich setzen                | to sit down          | 坐下      |
+| sich erinnern an + 宾格      | to remember          | 记得      |
+| sich interessieren für + 宾格 | to be interested in  | 对……感兴趣  |
+| sich vorstellen            | to introduce oneself | 自我介绍    |
+| sich (与格) etwas vorstellen  | to imagine something | 想象某事    |
+
+> Ich interessiere **mich** für Musik. I'm interested in music. 我对音乐感兴趣。
+>
+> Darf ich **mich** vorstellen? May I introduce myself? 我可以自我介绍一下吗？
+>
+> Das kann ich **mir** vorstellen. I can imagine that. 这我能想象。
+
+反身动词在词典里写作「sich + 不定式」，学的时候要连同 sich 一起记。
+
 ## 相互代词
 
+表示「互相」时，用复数的反身代词 uns、euch、sich 就可以表达，也可以用更明确的 **einander**：
+
+- Wir kennen **uns** schon lange. We've known each other for a long time. 我们认识很久了。
+- Sie helfen **einander**. / Sie helfen **sich**. They help each other. 他们互相帮助。
+
+注意 Sie helfen sich 有歧义，既可以是「他们互相帮助」，也可以是「他们各自帮助自己」，用 einander 就没有歧义了。einander 常常和介词合成一个词：miteinander（彼此一起）、voneinander（彼此之间）、nebeneinander（并排）。
+
+## 不定代词
+
+不定代词指代不确定的人或物。其中最重要的是 **man**，它相当于英语中泛指的 *one/you/they*、中文的「人们」，翻译时常常干脆省略：
+
+- Hier darf **man** nicht rauchen. You're not allowed to smoke here. 这里不许吸烟。
+- Wie sagt **man** das auf Deutsch? How do you say that in German? 这个用德语怎么说？
+
+man 只能作主语，动词用第三人称单数。注意不要和 der Mann（男人）混淆。
+
+其他常用的不定代词有：
+
+| 德语               | 英语                     | 中文          |
+| ---------------- | ---------------------- | ----------- |
+| jemand / niemand | somebody / nobody      | 某人 / 没有人    |
+| etwas / nichts   | something / nothing    | 某事 / 没有什么   |
+| alle / alles     | everybody / everything | 所有人 / 一切    |
+| viele / einige   | many / some            | 很多人 / 一些人   |
+
+最后说一下 **es**。除了指代中性名词，es 还常常作形式主语，本身没有意思，相当于英语的 *it*：Es regnet.（下雨了。）Es ist kalt.（天冷。）Wie geht es dir?（你好吗？）**es gibt** + 宾格则相当于英语的 *there is/are*：Es gibt hier einen Supermarkt.（这里有一家超市。）
 
 ## 总结
 
-
+1. 人称代词有格的变化；第三人称单数代词的性和所代替的名词相同，所以 der Computer 要用 er 来指代；
+2. 物主冠词的选择由拥有者决定，词尾由所修饰的名词决定，词尾变化和 ein 相同；
+3. 指示代词 dieser 的变化和定冠词相同，der/die/das 在口语中常作指示代词使用；
+4. 疑问代词 wer 有 wer/wen/wem/wessen 四个格，问物时「介词 + was」要变成 wo(r) + 介词；
+5. 反身代词只有第三人称和尊称用新的形式 sich，其余和人称代词相同；
+6. 「互相」用 uns/euch/sich 或 einander 表达；
+7. 泛指的「人们」用 man，es gibt 相当于英语的 *there is/are*。
 
 [返回目录](../README.md) [上一节 1.2 名词](nouns.md) [下一节 1.4 介词](prepositions.md)
