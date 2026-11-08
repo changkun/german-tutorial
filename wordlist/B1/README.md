@@ -24,14 +24,14 @@
 | die Aufgabe, die Aufgaben           | task                      | 任务          |
 | die Besprechung, die Besprechungen  | meeting                   | 会议，讨论       |
 | das Gehalt, die Gehälter            | salary                    | 薪水（月薪）      |
-| der Lohn, die Löhne                 | wage                      | 工资（时薪、周薪）   |
+| der Lohn, die Löhne                 | wage                      | 工资（按工时计算）   |
 | der Vertrag, die Verträge           | contract                  | 合同          |
 | die Überstunde, die Überstunden     | overtime (hour)           | 加班（小时）      |
 | die Kündigung, die Kündigungen      | notice, dismissal         | 辞职；解雇       |
 | kündigen                            | to give notice; to cancel | 辞职，解雇；退订    |
 | verdienen                           | to earn                   | 挣（钱）        |
 | arbeitslos                          | unemployed                | 失业的         |
-| selbstständig                       | self-employed; independent | 自由职业的；独立的  |
+| selbstständig                       | self-employed; independent | 自雇的，自己经营的；独立的 |
 | verantwortlich                      | responsible               | 负责的（für + 宾格） |
 
 注意 das Gehalt 和 der Gehalt 是两个词：中性的 das Gehalt 是「薪水」，阳性的 der Gehalt 是「含量」，复数也不同。
@@ -210,7 +210,7 @@ die Steuer 是「税」，das Steuer 却是汽车的「方向盘」。leihen 既
 | sorgen für + 宾格                    | to ensure; to look after  | 负责，照顾       |
 | sich beschäftigen mit + 与格         | to deal with, to occupy oneself with | 从事，研究 |
 | abhängen von + 与格 (hängt ab, hing ab, hat abgehangen) | to depend on | 取决于 |
-| bestehen aus + 与格                  | to consist of             | 由……组成       |
+| bestehen aus + 与格 (besteht, bestand, hat bestanden) | to consist of             | 由……组成       |
 | gehören zu + 与格                    | to be part of             | 属于（其中之一）    |
 | es geht um + 宾格                    | it is about               | 涉及，关于       |
 | es handelt sich um + 宾格            | it is a matter of         | 涉及，是关于      |
@@ -238,7 +238,7 @@ die Steuer 是「税」，das Steuer 却是汽车的「方向盘」。leihen 既
 | endlich                             | finally (at last)         | 终于          |
 | schließlich                         | finally; after all        | 最后；毕竟       |
 | damals                              | back then                 | 当时          |
-| inzwischen                          | meanwhile; by now         | 同时；如今       |
+| inzwischen                          | meanwhile; by now         | 在此期间；现在已经   |
 | bisher                              | so far                    | 迄今为止        |
 
 nämlich 用来补充说明原因，不能放在句首：Ich komme heute nicht, ich bin **nämlich** krank.（我今天不来了，因为我病了。）
