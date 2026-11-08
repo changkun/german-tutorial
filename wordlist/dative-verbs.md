@@ -89,7 +89,8 @@
 | **Mir** ist langweilig. | I'm bored.           | 我觉得无聊。      |
 | Das ist **mir** egal.  | I don't care.         | 我无所谓。       |
 | Das ist **mir** zu teuer. | That's too expensive for me. | 这对我来说太贵了。 |
-| Wie geht es **dir**? – **Mir** geht es gut. | How are you? – I'm fine. | 你好吗？——我很好。 |
+
+问候语 Wie geht es **dir**? – **Mir** geht es gut.（你好吗？——我很好。）虽然用的是 gehen 而不是 sein，但也是同样的思路：感受者用与格。
 
 注意不要说 *Ich bin kalt*，那样听起来像是在说「我这个人很冷漠」，或者「我的身体摸起来是冷的」。
 
