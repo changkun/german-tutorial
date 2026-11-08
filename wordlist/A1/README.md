@@ -377,4 +377,4 @@ hoch 后面接名词时要去掉 c：ein **hoher** Berg（一座高山）。
 | grau    | grey   | 灰色的 |
 | braun   | brown  | 棕色的 |
 
-[返回目录](../../README.md) [上一节 3.1「与格」动词](../dative-verbs.md) [下一节 结束语](../../grammar/end.md)
+[返回目录](../../README.md) [上一节 3.1「与格」动词](../dative-verbs.md) [下一节 3.3 A2 词汇清单](../A2/README.md)
