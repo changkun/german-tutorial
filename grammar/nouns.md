@@ -39,6 +39,7 @@
 - 很多花草树木
   - die Rose, die Tanne
 - 以下列词尾结尾的大部分名词
+  - **-e**: die Lamp**e**, die Straß**e**（例外：der Junge, der Name, das Auge 等）
   - **-ei**: die Bücher**ei**, die Part**ei**
   - **-enz**: die Konfer**enz**, die Exist**enz**
   - **-heit**: die Frei**heit**, die Gesund**heit**
@@ -66,6 +67,15 @@
   - **-o**: das Bür**o**, das Aut**o**
   - **-t(r)um**: das Wachs**tum**, das Stadtzen**trum**
 
+还有一些需要注意的例外和规律：
+
+- 以 -er 结尾的名词并不都是阳性：die Mutter（母亲）、die Butter（黄油）、das Fenster（窗户）、das Zimmer（房间）。
+- 以 -nis 结尾的名词中有一些是阴性：die Erlaubnis（许可）、die Kenntnis（知识）。
+- 以 -tum 结尾的名词中有两个是阳性：der Irrtum（错误）、der Reichtum（财富）。
+- 语法性别和自然性别不一定一致：das Mädchen（女孩）是中性，因为它的性别由词尾 -chen 决定，而不是由人的性别决定。
+- 复合名词的性别由最后一个词决定：das Haus + die Tür = die Haustür（见 [0.4 构词](formation.md)）。
+- 有些名词的性别不同，意思也不同：der See（湖）和 die See（海），der Leiter（领导）和 die Leiter（梯子）。
+
 
 
 ## 数量
@@ -76,14 +86,18 @@
 
 对其名词自身来说，名词从单数变为复数有这几种不同的方式：
 
-- `-`：不变化，以 -el, -en, -er, -chen, -lein 结尾的很多名词
-- `⸚` ：元音变化，以 -el, -en, -er 结尾的一些名词
-- `-e`：末尾加 e，以一个音节结尾的很多名词
-- `⸚e`：末尾加 e，且元音变化，以一个音节结尾的很多名词
-- `-(e)n`,`-nen`：末尾加 n、en 或 nen，绝大多数阴性名词，其中以 -in 结尾的加 nen
-- `-er`：末尾加 er，以一个音节结尾的很多中性名词
-- `⸚er`：末尾加 er，且元音变化，以一个音节结尾的很多名词
-- `-s`：末尾加 s，很多外来词
+- `-`：不变化，以 -el, -en, -er, -chen, -lein 结尾的很多阳性和中性名词：der Lehrer → die Lehrer，der Kuchen → die Kuchen，das Mädchen → die Mädchen
+- `⸚` ：元音变化，以 -el, -en, -er 结尾的一些名词：der Vater → die Väter，der Apfel → die Äpfel，der Garten → die Gärten
+- `-e`：末尾加 e，以一个音节结尾的很多名词：der Tisch → die Tische，das Jahr → die Jahre
+- `⸚e`：末尾加 e，且元音变化，以一个音节结尾的很多阳性名词和少数阴性名词：der Stuhl → die Stühle，die Stadt → die Städte
+- `-(e)n`,`-nen`：末尾加 n、en 或 nen，绝大多数阴性名词，其中以 -in 结尾的加 nen：die Lampe → die Lampen，die Frau → die Frauen，die Lehrerin → die Lehrerinnen。属于 n 变化的阳性名词（见下文）也是这样：der Student → die Studenten
+- `-er`：末尾加 er，以一个音节结尾的很多中性名词：das Kind → die Kinder，das Bild → die Bilder
+- `⸚er`：末尾加 er，且元音变化，以一个音节结尾的很多名词：das Haus → die Häuser，das Buch → die Bücher，der Mann → die Männer
+- `-s`：末尾加 s，很多外来词、缩略词和以元音结尾的词：das Auto → die Autos，das Hotel → die Hotels，das Handy → die Handys
+
+元音变化只会发生在 a、o、u、au 上，分别变为 ä、ö、ü、äu。
+
+复数形式没有可靠的规则，所以词典里通常这样标注一个名词：Tisch, der; -(e)s, -e，依次是性别、单数属格词尾、复数词尾。我们记单词时，也要连同冠词和复数一起记：der Tisch, die Tische。用程序员的话说，一个德语名词就是一个三元组 (gender, singular, plural)，缺了哪一项都没法正确使用。
 
 > 如果你是一口气从头看到这个位置，希望你能暂时休息一下，因为接下来我们要介绍德语里最为重要的一个概念 —— 格。
 
@@ -215,6 +229,13 @@
 - 阳性名词和中性名词的单数在属格词尾加 -(e)s
 - 名词复数三格词尾若没有 -n/-s 则加 -n
 
+属格的词尾还有一些细节：
+
+- 单音节名词多加 -es（des Mannes, des Kindes），多音节名词多加 -s（des Lehrers, des Computers）；
+- 以 -s, -ß, -x, -z 结尾的名词必须加 -es：des Hauses, des Fußes, des Platzes；
+- 人名的属格直接加 -s，并且不加撇号：Annas Buch（Anna 的书），Peters Auto（Peter 的车）；人名本身以 s, ß, x, z 结尾时，只加一个撇号：Hans' Auto；
+- 口语中常常用 von + 与格来代替属格：das Auto **von meinem Vater** = das Auto **meines Vaters**（我父亲的车）。
+
 ------
 
 自然语言之所以是自然语言，没有统一的法则，所以总会有特殊情况，一些阳性名词属于 -n 变化，即所有格中，除了主格的单数名词，全部加 -(e)n。分为 A 类和 B 类两种：
@@ -239,11 +260,26 @@
     - der Demokrat，民主人士 democrat
     - der Student，学生 student
     - der Optimist，乐观的人 optimist
+  - 其他一些表示人或动物的阳性名词
+    - der Mensch，人 human being
+    - der Herr，先生 gentleman（单数中除主格外都是 Herrn，复数为 Herren）
+    - der Nachbar，邻居 neighbour
+    - der Bär，熊 bear
 - B 类
   - 一些以 -e 结尾的抽象阳性名词
     - der Friede，和平 peace
     - der Gedanke，思想 thought
     - der Name，名字 name
+    - der Buchstabe，字母 letter
+    - der Glaube，信仰 belief
+
+在信件和邮件里最容易用到的就是 der Herr：
+
+> Herr Müller ist mein Nachbar. Ich schreibe **Herrn** Müller eine E-Mail.
+>
+> Mr Müller is my neighbour. I'm writing Mr Müller an email. Müller 先生是我的邻居。我给 Müller 先生写一封邮件。
+>
+> 解释：第一句中 Herr Müller 是主格；第二句中是与格，所以要写成 Herrn。
 
 ## 总结
 
@@ -251,8 +287,9 @@
 
 1. 名词具有三个属性：性别、数量、格；
 2. 名词性别的判断有一小部分规律，但总的来说是没有规律的；
-3. 名词单数变复数有很多种变化形式，名词单数的冠词随其「性别」与「格」而定（见[冠词](articles.md)），但名词复数的定冠词始终是 die，且没有不定冠词；
-4. 名词可具有四个不同的「格」，名词所在的格不同，词尾也会产生不同变化，也就是变格。
+3. 名词单数变复数有很多种变化形式，记名词时要连同冠词和复数一起记；名词单数的冠词随其「性别」与「格」而定（见[冠词](articles.md)），名词复数的定冠词则不分性别，主格和宾格都是 die，且复数没有不定冠词；
+4. 名词可具有四个不同的「格」，名词所在的格不同，词尾也会产生不同变化，也就是变格；
+5. 阳性和中性名词单数的属格加 -(e)s，复数的与格加 -n；一部分阳性名词属于 n 变化，除单数主格外都加 -(e)n。
 
 格是德语的核心所在，与「格」相关的语法知识通常伴随其他知识，这里只是一个初步的介绍。
 
