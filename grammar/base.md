@@ -191,4 +191,4 @@ nach 是「过」，vor 是「差」，Viertel 是「一刻钟」。最需要注
 
 </details>
 
-[返回目录](../README.md) [上一节 0.2 发音](pronounciation.md) [下一节 0.4 构词](formation.md)
+[返回目录](../README.md) [上一节 0.2 发音](pronunciation.md) [下一节 0.4 构词](formation.md)

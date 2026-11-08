@@ -31,7 +31,7 @@
 ### 第零部分 基础
 
 - [0.1 基础概念](grammar/basis.md)
-- [0.2 发音](grammar/pronounciation.md)
+- [0.2 发音](grammar/pronunciation.md)
 - [0.3 基本词汇](grammar/base.md)
 - [0.4 构词](grammar/formation.md)
 - [0.5 词序](grammar/order.md)
@@ -44,7 +44,7 @@
 - [1.4 介词 Prepositions](grammar/prepositions.md)
 - [1.5 动词 Verbs](grammar/verbs.md)
 - [1.6 形容词 Adjectives](grammar/adjectives.md)
-- [1.7 副词 Adverbs](grammar/advers.md)
+- [1.7 副词 Adverbs](grammar/adverbs.md)
 
 ### 第二部分 句法
 

@@ -121,7 +121,7 @@ du 的命令式有几个细节：
 - **Kannst du bitte** herkommen?（你能过来一下吗？）
 - **Könnten Sie bitte** herkommen?（您能过来一下吗？）
 
-最后一句用的是第二虚拟式，是最礼貌的说法，见 [2.4 虚拟语气](subjunctive.md)。语气词 doch 和 mal 见 [1.7 副词](advers.md)。
+最后一句用的是第二虚拟式，是最礼貌的说法，见 [2.4 虚拟语气](subjunctive.md)。语气词 doch 和 mal 见 [1.7 副词](adverbs.md)。
 
 ## 总结
 
@@ -148,4 +148,4 @@ du 的命令式有几个细节：
 
 </details>
 
-[返回目录](../README.md) [上一节 1.7 副词](advers.md) [下一节 2.2 过去时](past.md)
+[返回目录](../README.md) [上一节 1.7 副词](adverbs.md) [下一节 2.2 过去时](past.md)

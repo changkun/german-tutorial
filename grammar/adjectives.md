@@ -175,4 +175,4 @@ mehr（更多）和 weniger（更少）永远不变格：Ich brauche **mehr** Ze
 
 </details>
 
-[返回目录](../README.md) [上一节 1.5 动词](verbs.md) [下一节 1.7 副词](advers.md)
+[返回目录](../README.md) [上一节 1.5 动词](verbs.md) [下一节 1.7 副词](adverbs.md)

@@ -177,7 +177,7 @@
 - 英语：She is **beautiful**. / She sings **beautifully**.
 - 中文：她很**美**。/ 她唱得很**好听**。
 
-详见 [1.7 副词](advers.md)。
+详见 [1.7 副词](adverbs.md)。
 
 ## 格是什么？主格、宾格、与格、属格分别是什么意思？
 
@@ -234,4 +234,4 @@
 - 句子成分：[主语](https://zh.wikipedia.org/wiki/%E4%B8%BB%E8%AA%9E)、[谓语](https://zh.wikipedia.org/wiki/%E8%AC%82%E8%AA%9E)、[宾语](https://zh.wikipedia.org/wiki/%E5%AE%BE%E8%AF%AD)
 - 语法范畴：[时态](https://zh.wikipedia.org/wiki/%E6%97%B6%E6%80%81)、[语态](https://zh.wikipedia.org/wiki/%E8%AF%AD%E6%80%81)
 
-[返回目录](../README.md) [下一节 0.2 发音](pronounciation.md)
+[返回目录](../README.md) [下一节 0.2 发音](pronunciation.md)
