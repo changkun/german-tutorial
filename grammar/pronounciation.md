@@ -309,6 +309,27 @@ X Y Z ä ö ü ß
 4. 需要特别注意的拼写有：ei [aɪ] 与 ie [iː]，eu/äu [ɔʏ]，元音前的 s [z]，w [v]，v [f]，z [ts]，sch [ʃ]，词首的 sp/st [ʃp]/[ʃt]，以及 ch 的两种读法；
 5. 重音一般落在词干的第一个音节上，不可分前缀不重读，可分前缀重读。
 
+## 练习
+
+1. 下面单词中的元音发长音还是短音？Saal、Bett、Sohn、Mutter、Name、kommen
+2. 下面单词词尾的辅音读什么？Tag、Hund、halb、König
+3. 下面单词中的 ch 读 [ç] 还是 [x]？ich、Buch、Milch、acht
+4. 下面单词中的 sp、st 读 [ʃp]、[ʃt] 还是 [sp]、[st]？Sport、Fenster、Stuhl、ist
+5. Wein 和 Wien 哪个是「葡萄酒」，哪个是「维也纳」？
+6. 下面单词的重音落在哪个音节上？besuchen、ankommen、studieren
+
+<details>
+<summary>答案</summary>
+
+1. Saal 长（元音双写），Bett 短（两个辅音），Sohn 长（元音后有 h），Mutter 短（两个辅音），Name 长（只有一个辅音），kommen 短（两个辅音）。
+2. Tag 的 g 读 [k]，Hund 的 d 读 [t]，halb 的 b 读 [p]，König 的 -ig 读 [ɪç]。
+3. ich [ç]，Buch [x]（在 u 之后），Milch [ç]（在辅音之后），acht [x]（在 a 之后）。
+4. Sport [ʃp]，Fenster [st]（不在词首），Stuhl [ʃt]，ist [st]。
+5. Wein [vaɪn] 是葡萄酒，Wien [viːn] 是维也纳。
+6. be**su**chen（不可分前缀不重读），**an**kommen（可分前缀重读），stu**die**ren（-ieren 动词重音在 ie 上）。
+
+</details>
+
 ## 延伸阅读
 
 ### 德国企业

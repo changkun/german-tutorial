@@ -144,4 +144,23 @@
 - 中间部分：代词在前，名词与格在宾格前，状语按「时间 – 原因 – 方式 – 地点」排列；
 - 否定整句时 nicht 尽量后置，但要放在框架第二部分、表语和地点、方式状语之前。
 
+## 练习
+
+1. 把 heute 放到句首，改写句子：Ich gehe heute ins Kino.
+2. 改正下面句子的词序：Morgen ich fahre nach Berlin.
+3. 把下面的成分排成一个陈述句：fahre / ich / nach Berlin / mit dem Zug / morgen
+4. 用 weil 连接两个句子：Ich bleibe zu Hause. Ich bin krank.
+5. 在下面句子中加入 nicht，否定整个句子：Ich kenne den Mann. / Er ist krank. / Wir fahren nach Berlin. / Ich habe das Buch gelesen.
+
+<details>
+<summary>答案</summary>
+
+1. Heute gehe ich ins Kino.
+2. Morgen fahre ich nach Berlin.（变位动词必须在第二位）
+3. Ich fahre morgen mit dem Zug nach Berlin.（时间 – 方式 – 地点）
+4. Ich bleibe zu Hause, weil ich krank bin.
+5. Ich kenne den Mann nicht. / Er ist nicht krank. / Wir fahren nicht nach Berlin. / Ich habe das Buch nicht gelesen.
+
+</details>
+
 [返回目录](../README.md) [上一节 0.4 构词](formation.md) [下一节 1.1 冠词](articles.md)

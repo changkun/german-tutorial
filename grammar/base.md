@@ -172,4 +172,23 @@ nach 是「过」，vor 是「差」，Viertel 是「一刻钟」。最需要注
 4. 21 到 99 的数字个位在前、十位在后：einundzwanzig；
 5. halb vier 是 3:30，不是 4:30。
 
+## 练习
+
+1. 用德语说出这些数字：21、37、99、365。
+2. 用日常说法说出这些时间：7:30、9:15、11:45。
+3. 填入 wo、woher 或 wohin：___ kommen Sie? / ___ wohnen Sie? / ___ fahren Sie?
+4. 朋友问你 Hast du keinen Hunger?（你不饿吗？），而你其实饿了，该怎么回答？
+5. 一份德国的账单上写着 1.234,50 €，一共是多少钱？
+
+<details>
+<summary>答案</summary>
+
+1. einundzwanzig, siebenunddreißig, neunundneunzig, dreihundertfünfundsechzig。
+2. halb acht, Viertel nach neun, Viertel vor zwölf。
+3. Woher kommen Sie? / Wo wohnen Sie? / Wohin fahren Sie?
+4. Doch! 或者 Doch, ich habe Hunger.
+5. 一千二百三十四欧元五十分。德语中点是千位分隔符，逗号是小数点。
+
+</details>
+
 [返回目录](../README.md) [上一节 0.2 发音](pronounciation.md) [下一节 0.4 构词](formation.md)

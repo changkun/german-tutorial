@@ -203,6 +203,23 @@
 5. 德语有六个时态，没有进行时；
 6. 德语有四个格：主格、属格、与格、宾格。
 
+## 练习
+
+1. 指出下面句子中的变位动词：Ich habe gestern einen Film gesehen.（我昨天看了一部电影。）
+2. Den Lehrer sieht der Schüler. 这句话里，是谁看见了谁？（der Schüler 学生，der Lehrer 老师）
+3. 下面两个句子的意思一样吗？Der Hund beißt den Mann. / Den Hund beißt der Mann.
+4. 根据本节的辅音对应规律，猜猜这几个单词的意思：Pfanne、Salz、Durst、Tür。
+
+<details>
+<summary>答案</summary>
+
+1. habe 是变位动词，gesehen 是分词。
+2. der Schüler 是主格，是主语；den Lehrer 是宾格，是宾语。所以是学生看见了老师，尽管老师放在了句首。
+3. 不一样。第二句中 der Mann 是主格，den Hund 是宾格，意思是「人咬了狗」。
+4. Pfanne = pan（平底锅），Salz = salt（盐），Durst = thirst（口渴），Tür = door（门）。
+
+</details>
+
 ## 延伸阅读
 
 以下维基百科条目可以帮助你进一步了解本节提到的概念：

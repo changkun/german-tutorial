@@ -212,4 +212,21 @@
 4. 派生词由增加前缀和后缀构成，一些常见的词缀有：-er/-in/-heit/-keit/-ung/-lich/-haft/-los/-ig/-bar/be-/un-/in-；名词后缀决定名词的性别
 5. 动词不定式、形容词和动词词干可以直接转换成名词
 
+## 练习
+
+1. 拆分下面的复合词，并写出它的定冠词：Haustür、Schreibtisch、Kinderzimmer、Zeitungsartikel
+2. 根据后缀判断下面名词的性：Freundschaft、Häuschen、Lehrling、Wohnung、Dokument
+3. 猜猜下面形容词的意思：trinkbar、arbeitslos、sonnig、hoffnungsvoll
+4. Ich bekomme einen Brief 是什么意思？
+
+<details>
+<summary>答案</summary>
+
+1. das Haus + die Tür = **die** Haustür；schreiben + der Tisch = **der** Schreibtisch（动词只用词干）；die Kinder + das Zimmer = **das** Kinderzimmer；die Zeitung + -s- + der Artikel = **der** Zeitungsartikel。
+2. die Freundschaft，das Häuschen，der Lehrling，die Wohnung，das Dokument。
+3. trinkbar 可以喝的（*drinkable*），arbeitslos 失业的（*jobless*），sonnig 晴朗的（*sunny*），hoffnungsvoll 充满希望的（*hopeful*）。
+4. 我收到一封信。bekommen 是「得到」，不是英语的 *become*。
+
+</details>
+
 [返回目录](../README.md) [上一节 0.3 基本词汇](base.md) [下一节 0.5 词序](order.md)
