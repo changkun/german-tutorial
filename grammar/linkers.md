@@ -24,7 +24,7 @@
 - weder … noch（*neither … nor*）：Ich trinke **weder** Kaffee **noch** Tee.（我既不喝咖啡，也不喝茶。）
 - nicht nur … sondern auch（*not only … but also*）：Er ist **nicht nur** klug, **sondern auch** fleißig.（他不仅聪明，而且勤奋。）
 
-另外有一些副词也能起到连接句子的作用，比如 deshalb / deswegen / darum（因此）、trotzdem（尽管如此）、dann（然后）、außerdem（此外）、sonst（否则）。但它们是副词，不是连词，所以要**占据第一位**，变位动词紧跟其后，主语倒装到动词后面。
+另外有一些副词也能起到连接句子的作用，比如 deshalb / deswegen / darum（因此）、trotzdem（尽管如此）、dann（然后）、außerdem（此外）、sonst（否则）。但它们是副词，不是连词，所以要**占一个位置**。它们最常放在句首，这时变位动词紧跟其后，主语倒装到动词后面：Es regnet, **deshalb bleibe ich** zu Hause.（下雨了，所以我待在家里。）它们也可以放在动词后面的中场：Es regnet, ich bleibe **deshalb** zu Hause.
 
 同样是表达原因，下面三个句子分别用了并列连词、从属连词和副词，请注意动词的位置：
 
@@ -133,14 +133,14 @@
 - **ohne … zu**（没有……就）：Er ging, **ohne** sich **zu verabschieden**.（他没有道别就走了。）
 - **(an)statt … zu**（不……而是）：**Statt zu arbeiten**, sieht er fern.（他不工作，而是在看电视。）
 
-不定式没有自己的主语，它的主语默认就是主句的主语。所以只有两个句子的主语相同时，才能用不定式句；主语不同时，要改用从句：
+um … zu、ohne … zu、statt … zu 引导的不定式句没有自己的主语，它的主语就是主句的主语。所以只有两个句子的主语相同时，才能用这种不定式句；主语不同时，要改用从句：
 
 - Ich lerne Deutsch, **um** dich **zu verstehen**.（我学德语，为了能听懂你。）主语都是 ich
 - Ich spreche langsam, **damit** du mich **verstehst**.（我说慢一点，好让你听懂。）主语不同，用 damit 从句
 
 ## 总结
 
-1. 并列连词 aber、denn、und、sondern、oder 不占位置，后面的句子词序不变；deshalb、trotzdem 等连接副词占据第一位，主语倒装；
+1. 并列连词 aber、denn、und、sondern、oder 不占位置，后面的句子词序不变；deshalb、trotzdem 等连接副词要占一个位置，放在句首时主语倒装；
 2. 从属连词引导从句，从句中的变位动词放在句尾；从句在前时，主句以变位动词开头；
 3. 间接疑问句用疑问词或 ob 引导；过去一次性的事情用 als，其他情况用 wenn；
 4. 关系代词的性和数取决于所修饰的名词，格取决于它在从句中的作用；关系代词不能省略，介词必须放在关系代词前面；
