@@ -10,8 +10,8 @@
 
 ## 复合词
 
-不管复合词（Compositive Word）由多少个单词构成，总是最后一个单词作为中心词，起决定性作用。
-在名词中，最后一个词决定了名词的性别。前面的单词传递给我们更多的信息，他们决定这个基本单词。
+不管复合词（compound word，Kompositum）由多少个单词构成，总是最后一个单词作为中心词，起决定性作用。
+在名词中，最后一个词决定了名词的性别。前面的单词传递给我们更多的信息，它们限定这个基本单词。
 
 下面给出两个相同的基本词按顺序不同组成不同意思的单词：
 
@@ -19,25 +19,25 @@
     + 英语: wine from a bottle (and not from a barrel)
     + 中文: 瓶子里的酒 (而不是桶里的酒)
     + 解释: 组合形式为 限定词 + 基本单词
-    + 这里的 Flaschen 为 Flasche 的复数形式
+    + 这里 Flasche 后面多了一个 -n。它和复数形式相同，但在复合词里只起连接作用（见下文），并不表示「很多瓶」
 - die Weinflasche = der Wein + die Flasche
     + 英语: a bottle of wine
     + 中文: 装酒的瓶子 (而不是杯子)
     + 解释: 组合形式依然为 限定词 + 基本单词
-    + 这里 Flaschen 不再使用复数形式，因为作为中心词时，这里描述的是一个单数对象
+    + 这里 Flasche 作为中心词，保持原形，整个词也跟着 die Flasche 成为阴性
 
-注意，不能简单的理解成复合词的词义就是它各个组成部分的词义的组合，我们来看一个著名的反例：die Kindergarten = das Kinder + die Garten, 并不是孩子的花园，而是幼儿园。
+注意，不能简单的理解成复合词的词义就是它各个组成部分的词义的组合，我们来看一个著名的反例：der Kindergarten = die Kinder（das Kind 的复数）+ der Garten，并不是孩子的花园，而是幼儿园。英语直接借用了这个词：*kindergarten*。
 
 在复合词中，大多数是名词进行复合，不过其他词也有复合词。举例如下：
 
 - 名词+名词
     + die Steuer + der Berater = der Steuerberater
-    + die Liebe + der Kummber = der Liebeskummer
+    + die Liebe + der Kummer = der Liebeskummer
     + der Traum + der Job = der Traumjob
 - 形容词+名词
     + rot + der Wein = der Rotwein
     + groß + die Stadt = die Großstadt
-    weich + das Ei = das Weichei
+    + weich + das Ei = das Weichei（字面意思是「软鸡蛋」，口语里指胆小鬼、软蛋）
 - 名词+形容词
     + das Vitamin + reich = vitaminreich
     + die Umwelt + schonend = umweltschonend
@@ -50,12 +50,12 @@
 - 介词+名词
     + vor +der Vertrag = der Vorvertrag
     + nach + die Sicht = die Nachsicht
-    + innen + die Politik = die InnenPolitik
+    + innen（副词）+ die Politik = die Innenpolitik
 - 形容词+形容词
     + dunkel + rot = dunkelrot
     + hell + blond = hellblond
 - 副词+动词
-    + wieder + sehen = Wiedersehen
+    + wieder + sehen = wiedersehen（再见面），名词化后为 das Wiedersehen，即 Auf Wiedersehen 里的那个词
 
 通常是上述几类词的混搭形式。但是理论上来说，一切皆有可能。只要在单词词尾时还记得单词以什么开始就可以了。例如：
 
@@ -79,9 +79,9 @@
 > 英文: The lock on the cabin door of the captain from the Danube steamship company
 > 中文: 多瑙河轮船航运有限公司船长舱门上的锁
 >
-> 可以看出，德语里复合词更像是英语中对于特定中心对象的描述性的句子，德语通过给 Lock 这个中心对象增加各种各样的词，构成了新词。
+> 可以看出，德语里复合词更像是英语中对于特定中心对象的描述性的句子，德语通过给 Schloss（锁）这个中心对象增加各种各样的词，构成了新词。
 > 
-> Scholoss 为中性名词，因此这个长长的单词也是阳性的。
+> das Schloss 为中性名词，因此这个长长的单词也是中性的。
 
 
 有些复合名词不能直接进行组合，需要一些连接词或字母，比如：
@@ -89,7 +89,7 @@
 - die Arbeit + der Markt = der Arbeit**s**markt
 - der Aufwand + die Entschädigung = die Aufwand**s**entschädigung
 
-很多次构成复合词时用复数形式而不是单数形式，比如：
+很多词构成复合词时用复数形式而不是单数形式，比如：
 
 - die Aprikosen(复数) + die Marmelade = die Aprikosenmarmelade
 - die Kinder(复数) + der Garten = der Kindergarten
@@ -107,14 +107,14 @@
     + to travel - journey
 - bewegen + -ung = die Bewegung
     + to move - movement
-- der Sommer = -lich = sommerlich
+- der Sommer + -lich = sommerlich
     + summer - summery
-- der Frühling + -(s)harft = frühlingshaft
-    + sprint - spring-like
+- der Frühling + -haft = frühlingshaft
+    + spring - spring-like
 - be + arbeiten = bearbeiten
     + to work - to work on something
 
-前缀常与动词一起使用，如 ankommen (to arrive)， durchlesen (to read through)，wiederholen (to repeat)。名词和形容词则常使用前缀 in- 和 un-，将名词变成它的否定形式或反义词，这点和英语非常类似。
+前缀常与动词一起使用，如 ankommen (to arrive)， durchlesen (to read through)，wiederholen (to repeat)。名词和形容词则常使用前缀 un- 和 in-（in- 只用于外来词），将名词变成它的否定形式或反义词，这点和英语非常类似。
 
 - das Unglück (kein Glück)
     + calamity, misfortune (no luck)
@@ -135,7 +135,7 @@
 - die Instabilität
     + instability
 
-后缀用于构成新的名词或形容词。也就是一其他名词、动词或形容词为基础构成新词。比如名词，后缀决定新名词的性别。
+后缀用于构成新的名词或形容词。也就是以其他名词、动词或形容词为基础构成新词。比如名词，后缀决定新名词的性别。
 
 - gesund + -heit = die Gesundheit
     + healthy => health
@@ -145,9 +145,9 @@
     + to work on something => the actual work itself
 - der Wunsch + -los = wunschlos
     + wish => without a wish (completely satisfied)
-- leben + -haft = behaft
+- leben + -haft = lebhaft
     + to live => lively
-- der Wind + ig = windig
+- der Wind + -ig = windig
     + wind => windy
 
 
