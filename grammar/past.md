@@ -153,7 +153,11 @@
 
 ## 现在完成时
 
-现在完成时通过 sein 或 haben 的现在时形式加第二分词（过去分词）构成。
+现在完成时通过 sein 或 haben 的现在时形式加第二分词（过去分词）构成。助动词作为变位动词位于第二位，第二分词放在句尾，构成 [0.5 词序](order.md) 中讲过的框架结构：
+
+- 德语：Ich **habe** einen Brief **geschrieben**. / Ich **bin** nach Berlin **gefahren**.
+- 英语：I wrote a letter. / I went to Berlin.
+- 中文：我写了一封信。/ 我去了柏林。
 
 可什么时候用 sein，什么时候用 haben 呢？
 
@@ -163,21 +167,36 @@
 
 下列动词在现在完成时中用 sein：
 
+- sein（是）：Ich **bin** in Berlin **gewesen**.（我去过柏林。）
+- bleiben（停留）：Wir **sind** zu Hause **geblieben**.（我们待在家里了。）
+- werden（成为）：Er **ist** Arzt **geworden**.（他成了医生。）
 
 passieren, geschehen 及具有相似含义的动词：
 
+- Was **ist** **passiert**?（发生了什么事？）
+- Das **ist** gestern **geschehen**.（这件事是昨天发生的。）
 
 表示从 A 到 B 运动的动词：
 
+- gehen, fahren, fliegen, kommen, laufen, reisen, umziehen 等：Wir **sind** nach Spanien **geflogen**.（我们飞去了西班牙。）
+
 表示状态改变的动词：
+
+- aufstehen, einschlafen, aufwachen, sterben, wachsen 等：Ich **bin** um sieben Uhr **aufgestanden**.（我七点起床了。）
 
 - 带 haben 的现在完成时
 
 大多数动词借助 haben 构成现在完成时，特别是反身动词、带四格宾语的动词及情态动词。
 
-情态动词不常用于现在完成时，通常用过去时。
+- Ich **habe** mich sehr **gefreut**.（我很高兴。）反身动词
+- Sie **hat** das Buch **gelesen**.（她读了这本书。）带四格宾语
+- Wir **haben** lange **geschlafen**.（我们睡了很久。）既不是位移，也不是状态改变
 
-> 加了前缀的动词，词意有所改变，现在完成时可能加 sein，也可能是 haben。
+情态动词不常用于现在完成时，通常用过去时。如果用现在完成时，而且后面还跟着一个动词，那么情态动词不用第二分词，而用不定式，形成「双不定式」：Ich **habe** gestern arbeiten **müssen**.（我昨天不得不工作。）这种句子听起来比较笨重，所以人们更愿意说 Ich **musste** gestern arbeiten。
+
+> 加了前缀的动词，词意有所改变，现在完成时可能加 sein，也可能是 haben。比如 Er **ist** gekommen（他来了），但 Er **hat** einen Brief bekommen（他收到了一封信）。同一个动词带宾格宾语时，也要改用 haben：Ich **bin** nach Hause gefahren（我开车回家了），但 Ich **habe** das Auto in die Garage gefahren（我把车开进了车库）。
+
+另外，德国南部、奥地利和瑞士的人说 sitzen（坐）、stehen（站）、liegen（躺）的现在完成时，也用 sein：Ich **bin** gesessen。在德国北部则说 Ich **habe** gesessen。两种说法都是正确的。
 
 ## 过去完成时
 
@@ -185,6 +204,29 @@ passieren, geschehen 及具有相似含义的动词：
 
 过去完成时的构成非常简单，和现在完成时相同，只是用 sein 或 haben 的过去时形式替代现在时。
 
+> 例子：
+>
+> Als wir am Bahnhof ankamen, **war** der Zug schon **abgefahren**.
+>
+> When we arrived at the station, the train had already left. 我们到火车站的时候，火车已经开走了。
+>
+> Nachdem er **gegessen hatte**, ging er spazieren.
+>
+> After he had eaten, he went for a walk. 他吃完饭之后去散步了。
+
 下面是过去完成时的构成小结：
+
+| 时态    | 构成                      | 例子                                         |
+| ----- | ----------------------- | ------------------------------------------ |
+| 现在完成时 | haben / sein 的现在时 + 第二分词 | Ich habe gegessen. / Ich bin gegangen.     |
+| 过去完成时 | haben / sein 的过去时 + 第二分词 | Ich hatte gegessen. / Ich war gegangen.    |
+
+## 总结
+
+1. 口语中讲过去的事多用现在完成时，书面语多用过去时；sein、haben 和情态动词即使在口语中也常用过去时；
+2. 弱变化动词的过去时加 -(e)te-，强变化动词改变词干元音，混合变化动词两者兼有；
+3. 第二分词：弱变化动词为 ge-…-(e)t，强变化动词为 ge-…-en；重音不在第一个音节上的动词（-ieren 动词和带不可分前缀的动词）不加 ge-；
+4. 现在完成时 = haben/sein 的现在时 + 第二分词；表示位移、状态改变的动词以及 sein、bleiben、werden、passieren 用 sein，其余用 haben；
+5. 过去完成时 = haben/sein 的过去时 + 第二分词，表示过去的过去。
 
 [返回目录](../README.md) [上一节 2.1 现在时](present.md) [下一节 2.3 「将来」时](future.md)
