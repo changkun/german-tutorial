@@ -25,18 +25,18 @@
     - 这个杂志被很多人读。
 
 
-那么，这么多决定因素，应该如何区分一个动词是什么形态呢？可以通过词尾来区分不同的形式，动词词干后根据不同的人称添加不同的人称词尾。人称词尾如下：
+那么，这么多决定因素，应该如何区分一个动词是什么形态呢？可以通过词尾来区分不同的形式，动词词干后根据不同的人称添加不同的人称词尾。一般现在时的人称词尾如下：
 
-| 一般词尾变化    |      |
-| --------- | ---- |
-| ich       | -    |
-| du        | -st  |
-| er/es/sie | -    |
-| wir       | -en  |
-| ihr       | -t   |
-| sie/Sie   | -en  |
+| 人称        | 现在时词尾 |
+| --------- | ----- |
+| ich       | -e    |
+| du        | -st   |
+| er/es/sie | -t    |
+| wir       | -en   |
+| ihr       | -t    |
+| sie/Sie   | -en   |
 
-在一般现在时中，ich （第一人称单数）的词尾是 -e，而 er/es/sie 的词尾是 -t。情态动词及系动词 sein 为特殊变化。
+在一般过去时中，以及情态动词的现在时中，ich（第一人称单数）和 er/es/sie（第三人称单数）都没有词尾，其他人称的词尾和现在时相同。系动词 sein 为特殊变化。
 
 两种时态的变位如下：
 
@@ -52,7 +52,7 @@
 
 **两个相同的音要合并成一个。**如：wir sag-te-en 变成 sag-te-n（第一人称复数一般过去时）。
 
-**动词不定式（动词原形）任何时候都不变化**，以 -en 结尾：schreiben 写，sagen 说，wissen 知道。但 sein 例外。
+**动词不定式（动词原形）任何时候都不变化**，绝大多数以 -en 结尾：schreiben 写，sagen 说，wissen 知道。少数以 -n 结尾：sein 是，tun 做，wandern 徒步，lächeln 微笑。
 
 不过，德语中还有几种完全不同的形式——助动词、情态动词
 
@@ -63,15 +63,15 @@
 - Vanessa **hat** Boxhandschuhe.
   - haben 作为主要动词
 - Vanessa **hat** Boxhandschuhe **gekauft**.
-  - haben 作为助动词构成 kaufen 的分词形式
+  - haben 作为助动词构成 kaufen 的现在完成时
 - Herr Gabor **ist** Rechtsanwalt.
   - sein 作为主要动词
 - Herr Vollmer **ist** zu einem Rechtsanwalt **gegangen**.
-  - sein 作为助动词构成 gehen 的分词形式
+  - sein 作为助动词构成 gehen 的现在完成时
 - Carmen **wird** Informatikerin.
-  - werden 作为主动词
+  - werden 作为主要动词
 - Die Datei **wird gespeichert**.
-  - werden 作为助动词构成 speichern 的分词
+  - werden 作为助动词构成 speichern 的被动语态
 
 这三个动词的变位也是特殊形式。它们的一般现在时变位如下：
 
@@ -80,7 +80,7 @@
 | ich       | bin   | hab-e  | werd-e  |
 | du        | bi-st | ha-st  | wir-st  |
 | er/es/sie | is-t  | ha-t   | wir-d   |
-| wir       | sind  | hab-en | wer-en  |
+| wir       | sind  | hab-en | werd-en |
 | ihr       | seid  | hab-t  | werd-et |
 | sie/Sie   | sind  | hab-en | werd-en |
 
@@ -91,7 +91,7 @@
 **情态动词通常和主要动词的不定式形式连用，用来描述事情发生的方式**，常常**带有个人情感色彩或说话者的看法或观点**。因此，同一个情态动词往往有很多不同的含义。
 
 - Sie **kann** sehr schön singen.
-  - She can sing most beautifully
+  - She can sing very beautifully.
   - 能力
 - **Kannst** du mir mal helfen?
   - Can you help me?
@@ -107,20 +107,20 @@
 
  //TODO
 
-möchte 常用语口语。它是动词 mögen 的一种形式，没有自己的不定式形式。
+möchte 常用于口语。它是动词 mögen 的一种形式（第二虚拟式，见 [2.4 虚拟语气](subjunctive.md)），没有自己的不定式形式。
 
 情态动词的一般现在时如下表所示：
 
 |           | dürfen  | können  | müssen  | wollen  | mögen  | (mögen 口语) | sollen  |
 | --------- | ------- | ------- | ------- | ------- | ------ | ---------- | ------- |
 | ich       | darf    | kann    | muss    | will    | mag    | möcht-e    | soll    |
-| du        | darf-st | kann-st | muss-t  | will-st | mag-st | möcht-st   | soll-st |
+| du        | darf-st | kann-st | muss-t  | will-st | mag-st | möcht-est  | soll-st |
 | er/es/sie | darf    | kann    | muss    | will    | mag    | möcht-e    | soll    |
 | wir       | dürf-en | könn-en | müss-en | woll-en | mög-en | möcht-en   | soll-en |
 | ihr       | dürf-t  | könn-t  | müss-t  | woll-t  | mög-t  | möcht-et   | soll-t  |
 | sie/Sie   | dürf-en | könn-en | müss-en | woll-en | mög-en | möcht-en   | soll-en |
 
->  除了 möchte 和 sollen，其他情态动词都有元音变化。
+> 除了 möchte 和 sollen，其他情态动词在单数中都有元音变化。
 
 动词 brauchen 可以和 nur 或 nicht 连用，像情态动词一样，具有 müssen 的含义。动词不定式前面加 zu。
 
@@ -140,7 +140,7 @@ möchte 常用语口语。它是动词 mögen 的一种形式，没有自己的�
 
 ### 带前缀的动词
 
-在德语中，很多动词可以添加前缀来构成具有不同意义的新的动词。如果前缀是可分的，那么口语中是可以加以强调（将前缀放置到句尾）。可分前缀有：
+在德语中，很多动词可以添加前缀来构成具有不同意义的新的动词。可分前缀在发音时总是重读，在主句的现在时和过去时中要和动词分开，放到句尾（见 [0.5 词序](order.md)）。可分前缀有：
 
 - ab
 - an
@@ -159,7 +159,7 @@ möchte 常用语口语。它是动词 mögen 的一种形式，没有自己的�
 - zu
 - zurück
 
-不可分前缀在口语中不能强调。就像他们的名字一样，不可分前缀不能单独存在。不可分前缀有：
+不可分前缀在发音时从不重读。就像它们的名字一样，不可分前缀永远不会和动词分开。不可分前缀有：
 
 - be
 - emp
