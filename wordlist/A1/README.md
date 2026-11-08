@@ -8,7 +8,7 @@
 - 规则变化（弱变化）动词只给出不定式；可分动词在括号里给出第三人称单数现在时，以显示前缀的位置：einkaufen (kauft ein)。
 - 不规则变化（强变化和混合变化）动词，以及现在完成时用 sein 的动词，在括号里依次给出第三人称单数现在时、过去时和现在完成时：fahren (fährt, fuhr, ist gefahren)。这正是 [结束语](../../grammar/end.md) 里说的需要记住的几个基本形式。
 - 比较级和最高级不规则，或者元音要变音的形容词，给出比较级和最高级：alt (älter, am ältesten)。
-- 表示职业和身份的阳性名词，加 -in 就是对应的阴性形式（复数 -innen），例如 der Lehrer → die Lehrerin, die Lehrerinnen，表中不再一一列出。
+- 表示职业和身份的阳性名词，加 -in 就是对应的阴性形式（复数 -innen），例如 der Lehrer → die Lehrerin, die Lehrerinnen，表中不再一一列出。有的词还要变音或去掉词尾 -e：der Arzt → die Ärztin，der Kollege → die Kollegin。
 
 按课文整理的生词表：[01 Hallo! Ich bin Nicole ...](u01.md)
 
@@ -165,8 +165,8 @@ wohnen 和 leben 都可以译成「住」，但 wohnen 指住在某个地方（I
 | bezahlen                            | to pay                    | 付钱          |
 | die Rechnung, die Rechnungen        | bill, invoice             | 账单          |
 | lecker                              | tasty, delicious          | 好吃的         |
-| der Hunger（无复数）                    | hunger                    | 饿           |
-| der Durst（无复数）                     | thirst                    | 渴           |
+| der Hunger（无复数）                    | hunger                    | 饥饿          |
+| der Durst（无复数）                     | thirst                    | 口渴          |
 
 注意德语说「我饿了」是 Ich habe Hunger（我有饥饿），Ich bin hungrig 也可以说，但远不如前者常用。
 
@@ -181,7 +181,7 @@ wohnen 和 leben 都可以译成「住」，但 wohnen 指住在某个地方（I
 | das Geschäft, die Geschäfte         | shop; business            | 商店；生意       |
 | der Markt, die Märkte               | market                    | 市场，集市       |
 | der Preis, die Preise               | price                     | 价格          |
-| kosten                              | to cost                   | 价值，花费       |
+| kosten                              | to cost                   | 值（多少钱），花费   |
 | das Geld（通常无复数）                    | money                     | 钱           |
 | der Euro, die Euro                  | euro                      | 欧元          |
 | der Cent, die Cent                  | cent                      | 欧分          |
@@ -258,7 +258,7 @@ die Bank 还有一个意思是「长椅」，那时复数是 die Bänke。
 | der Bauch, die Bäuche               | belly, stomach            | 肚子          |
 | der Rücken, die Rücken              | back                      | 背           |
 | krank (kränker, am kränksten)       | ill, sick                 | 生病的         |
-| gesund                              | healthy                   | 健康的         |
+| gesund (gesünder, am gesündesten)   | healthy                   | 健康的         |
 | müde                                | tired                     | 累的，困的       |
 | wehtun (tut weh, tat weh, hat wehgetan) | to hurt               | 疼           |
 | der Termin, die Termine             | appointment               | 预约，约定的时间    |
