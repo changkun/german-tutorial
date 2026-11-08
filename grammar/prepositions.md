@@ -83,4 +83,48 @@ an, auf, hinter, in, neben, über, unter, vor, zwischen。
 
 此外还有 innerhalb（在……之内）和 außerhalb（在……之外）：innerhalb einer Woche（一周之内）。口语中常常听到 wegen dem Regen 这样的说法，这在日常会话中可以接受，但书面语中应该用第二格。
 
+## 去哪儿、在哪儿、从哪儿来
+
+英语的 *to*、*in/at*、*from* 在德语里各自要分成好几个介词，具体用哪个，取决于目的地是什么。下面这张表值得反复看：
+
+| 地点            | wohin?（去哪儿）     | wo?（在哪儿）         | woher?（从哪儿来）       |
+| ------------- | --------------- | ---------------- | ----------------- |
+| 城市、不带冠词的国家    | **nach** Berlin | **in** Berlin    | **aus** Berlin    |
+| 带冠词的国家        | **in die** Schweiz | **in der** Schweiz | **aus der** Schweiz |
+| 建筑物、房间等封闭的空间  | **ins** Kino    | **im** Kino      | **aus dem** Kino  |
+| 人             | **zum** Arzt    | **beim** Arzt    | **vom** Arzt      |
+| 家             | **nach** Hause  | **zu** Hause     | **von zu** Hause  |
+
+几点说明：
+
+- 去某人那里用 zu，在某人那里用 bei，从某人那里来用 von：Ich gehe **zu** meiner Freundin.（我去我女朋友那里。）
+- 去某个地点或机构，强调的是「目的地」而不是「进入」时，也用 zu：**zum** Bahnhof（去火车站），**zur** Bank（去银行）。
+- nach Hause 和 zu Hause 是两个固定说法，前者是「回家」，后者是「在家」，非常常用，千万不要混淆。
+
+## da- 和 wo- 复合词
+
+介词后面跟的如果是**物**（而不是人），代词常常不直接放在介词后面，而是和 da- 合成一个词。介词以元音开头时，中间加一个 r：
+
+> Ich freue mich auf den Urlaub. → Ich freue mich **darauf**.
+>
+> I'm looking forward to the holiday. → I'm looking forward to it. 我期待着假期。→ 我期待着它。
+>
+> Ich fahre mit dem Bus. → Ich fahre **damit**.
+>
+> I go by bus. → I go by it. 我坐公共汽车去。→ 我坐它去。
+
+如果介词后面是人，就照常用人称代词：Ich warte auf meinen Freund. → Ich warte **auf ihn**.（我在等他。）
+
+对应的疑问形式就是 wo- 复合词：Worauf freust du dich?（你期待着什么？）Womit fährst du?（你坐什么去？）见 [1.3 代词](pronouns.md)。
+
+## 总结
+
+1. 介词决定后面名词的格，记介词的时候要连同它支配的格一起记；
+2. 支配第四格的介词：bis, durch, für, gegen, ohne, um（以及后置的 entlang）；
+3. 支配第三格的介词：ab, aus, außer, bei, gegenüber, mit, nach, seit, von, zu；
+4. 双向介词 an, auf, hinter, in, neben, über, unter, vor, zwischen：表示方向（wohin?）用第四格，表示位置（wo?）用第三格；
+5. 支配第二格的介词：aufgrund, statt, trotz, während, wegen 等，口语中常被第三格代替；
+6. 去哪儿、在哪儿、从哪儿来，要根据地点的类型选用 nach/in/zu、in/bei/zu、aus/von；
+7. 介词加代指物的代词时，常常合成 da(r)- 复合词，提问时用 wo(r)- 复合词。
+
 [返回目录](../README.md) [上一节 1.3 代词](pronouns.md) [下一节 1.5 动词](verbs.md)
