@@ -24,7 +24,7 @@
 - weder … noch（*neither … nor*）：Ich trinke **weder** Kaffee **noch** Tee.（我既不喝咖啡，也不喝茶。）
 - nicht nur … sondern auch（*not only … but also*）：Er ist **nicht nur** klug, **sondern auch** fleißig.（他不仅聪明，而且勤奋。）
 
-另外有一些副词也能起到连接句子的作用，比如 deshalb / deswegen / darum（因此）、trotzdem（尽管如此）、dann（然后）、außerdem（此外）、sonst（否则）。但它们是副词，不是连词，所以要**占一个位置**。它们最常放在句首，这时变位动词紧跟其后，主语倒装到动词后面：Es regnet, **deshalb bleibe ich** zu Hause.（下雨了，所以我待在家里。）它们也可以放在动词后面的中场：Es regnet, ich bleibe **deshalb** zu Hause.
+另外有一些副词也能起到连接句子的作用，比如 deshalb / deswegen / darum（因此）、trotzdem（尽管如此）、dann（然后）、außerdem（此外）、sonst（否则）。但它们是副词，不是连词，所以要**占一个位置**。它们最常放在句首，这时变位动词紧跟其后，主语倒装到动词后面：Es regnet, **deshalb bleibe ich** zu Hause.（下雨了，所以我待在家里。）它们也可以放在变位动词后面的句子中间：Es regnet, ich bleibe **deshalb** zu Hause.
 
 同样是表达原因，下面三个句子分别用了并列连词、从属连词和副词，请注意动词的位置：
 
