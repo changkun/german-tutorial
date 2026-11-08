@@ -49,7 +49,7 @@
 
 其次，定冠词和不定冠词的**否定形式**（Negation Form）不相同：
 
-1. 定冠词 der, die, das 的否定形式为在冠词前加 **nicht**，即 **nicht der/die/das**；
+1. 带定冠词 der, die, das 的名词用 **nicht** 否定，而不是 kein。nicht 通常放在宾语之后：Ich kaufe den Computer **nicht**.（我不买这台电脑。）只有在 sein、werden 之后，或者表示对比（nicht …, sondern …）时，nicht 才直接放在冠词前面：**nicht der** Bus, sondern die Straßenbahn（不是公共汽车，而是有轨电车）；
 2. 不定冠词 ein, eine 的否定形式为 **kein**, **keine**。
 
 > 例子：
