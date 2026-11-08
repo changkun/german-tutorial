@@ -4,11 +4,11 @@
 
 1. **性别**（gender）：阳性（masculine） **der**，阴性（feminine） **die**，中性（neuter） **das**
 2. **数量**（number）：单数（singular），复数（plural）
-3. **格**（case）：主格（nominative）、宾格（accusative）、与格（dative）、属格（gentive）。或称第一、四、三、二格
+3. **格**（case）：主格（nominative）、宾格（accusative）、与格（dative）、属格（genitive）。或称第一、四、三、二格
 
 ## 性别
 
-你可能已经在刚才冠词一节里初步感受过德语名词的「性别」这个属性的可怕之处的了。一个名词的性别是规（鬼）定（订）的，**没有通用的规律**。所以我们在记单词的时候，应该将名词性别的方式就是将性别和名词一起记忆，比如：**der** Mann, **die** Frau, **das** Mädchen, **das** Kind。
+你可能已经在刚才冠词一节里初步感受过德语名词的「性别」这个属性的可怕之处的了。一个名词的性别是规（鬼）定（订）的，**没有通用的规律**。所以我们在记单词的时候，记忆名词性别的方式就是将性别和名词一起记忆，比如：**der** Mann, **die** Frau, **das** Mädchen, **das** Kind。
 
 尽管没有规律，这里还是要介绍一些判断名词性别的方法，能覆盖大部分生活场景中出现的词：
 
@@ -29,7 +29,7 @@
   - **-ismus**: der Tour**ismus**, der Terror**ismus**
   - **-ist**: der Spezial**ist**, der Poliz**ist**
   - **-ling**: der Früh**ling**, der Lehr**ling**
-  - **-or**: der Mont**or**, der Reakt**or**
+  - **-or**: der Mot**or**, der Reakt**or**
 
 **阴性名词**通常有以下类别：
 
@@ -48,7 +48,7 @@
   - **-in**: die Chef**in**, die Trainer**in**
   - **-ion**: die Reg**ion**, die Nat**ion**
   - **-schaft**: die Wirt**schaft**, die Wissen**schaft**
-  - **-tät**: die Quanli**tät**, die Producktivi**tät**
+  - **-tät**: die Quali**tät**, die Produktivi**tät**
   - **-ung**: die Einlad**ung**, die Vertret**ung**
 
 **中性名词**通常有以下类别：
@@ -57,13 +57,13 @@
   - das Gemüse, das Gebirge
 - 动词原形作名词
   - das Essen, das Rauchen
-- 带下列词尾的名词的小辈爱称
-  - **-chen**: das Mäd**chen** das Bröt**chen**
+- 带下列词尾的指小词（表示「小」，也常用作爱称）
+  - **-chen**: das Mäd**chen**, das Bröt**chen**
   - **-lein**: das Büch**lein**, das Ring**lein**
 - 以下列词尾结尾的大部分名词
-  - **-nis**: das Verzeichnis, das Geheimnis
-  - **-ment**: das Medikament, das Instrument
-  - **-o**: das Büro, das Auto
+  - **-nis**: das Verzeich**nis**, das Geheim**nis**
+  - **-ment**: das Medika**ment**, das Instru**ment**
+  - **-o**: das Bür**o**, das Aut**o**
   - **-t(r)um**: das Wachs**tum**, das Stadtzen**trum**
 
 
@@ -77,11 +77,11 @@
 对其名词自身来说，名词从单数变为复数有这几种不同的方式：
 
 - `-`：不变化，以 -el, -en, -er, -chen, -lein 结尾的很多名词
-- `⸚` ：元音变化，以 -el, -en, -er, -chen, -lein 结尾的很多名词
+- `⸚` ：元音变化，以 -el, -en, -er 结尾的一些名词
 - `-e`：末尾加 e，以一个音节结尾的很多名词
 - `⸚e`：末尾加 e，且元音变化，以一个音节结尾的很多名词
-- `-n`,`-nen`：末尾加 n 或 nen，以 -e, -in 结尾的阴性名词
-- `-er`：末尾加 er，以 一个音节结尾的很多名词
+- `-(e)n`,`-nen`：末尾加 n、en 或 nen，绝大多数阴性名词，其中以 -in 结尾的加 nen
+- `-er`：末尾加 er，以一个音节结尾的很多中性名词
 - `⸚er`：末尾加 er，且元音变化，以一个音节结尾的很多名词
 - `-s`：末尾加 s，很多外来词
 
@@ -89,7 +89,7 @@
 
 ## 格
 
-格是德语中最最最重要的概念。德语的格原文为 Kasus，英文为 Case Endings，直译为中文就是「情况」，语言学术语则译为「格」。换句话说可以简单理解为「不同的情况」。名词在句子中具有四个不同的格（四个不同的情况）：
+格是德语中最最最重要的概念。德语的格原文为 Kasus（也叫 Fall），英文为 case，两者都来自拉丁语的 casus，本义是「落下」，引申为「情况」，语言学术语则译为「格」。换句话说可以简单理解为「不同的情况」。名词在句子中具有四个不同的格（四个不同的情况）：
 
 下面的表格列出了德语中的四个格：
 
@@ -137,7 +137,7 @@
   - 英语：Ms Schmitt is reading **a report**.
   - 中文：Schmitt 女士在读**一份报告**。
 - 在介词后
-  - 德语：Das protokoll ist für **den Chef**.
+  - 德语：Das Protokoll ist für **den Chef**.
   - 英语：The minutes are for **the boss**.
   - 中文：备忘录是给**老板**的。
 
@@ -150,20 +150,20 @@
 
 ------
 
-注意：通常一个句子中只有一个主格。但是在德语中，如果句子中含有 **sein** (tobe)、**heiße** (to be called) 、bleiben（to stay/remain）、werden（to become）这些动词，那么可以多于一个主格。例如：
+注意：通常一个句子中只有一个主格。但是在德语中，如果句子中含有 **sein** (to be)、**heißen** (to be called) 、bleiben（to stay/remain）、werden（to become）这些动词，那么可以多于一个主格。例如：
 
 - Herr Lehmann **ist** ein guter Rechtsanwalt.
   - Mr Lehmann **is** a good solicitor.
   - Lehmann 先生是一个好律师。
   - 解释：这里的 Rechtsanwalt 为阳性名词，前面的冠词 ein 说明了 Rechtsanwalt 在句子中为**主格**，因此这句话有两个主格：Herr Lehmann 和 ein Rechtsanwalt。
-- Frau Lator **wird** sicher eine gute Juristin.
+- Frau Latour **wird** sicher eine gute Juristin.
   - Ms Latour **is** sure to become a good lawyer.
   - Latour 女士肯定会成为一名好律师的。
   - 解释：Juristin 为阴性名词，前面的冠词 eine 说明了 Juristin 在句中只能为主格或者宾格。若为宾格则不符合句法，因此 Juristin 为主格。
 
 ------
 
-有些动词总是紧跟与格（三格）。如 **antworten** (to answer)、**danken** (to thank)、**helfen** (to help)。例如：
+有些动词总是支配与格（三格）。如 **antworten** (to answer)、**danken** (to thank)、**helfen** (to help)。例如：
 
 - Frau Sanchez <u>antwortet</u> **dir**.
   - Ms Sanchez will answer **you**.
@@ -211,8 +211,8 @@
 
 一般规则如下：
 
-- 阴性mincing在所有格中保持原形
-- 阳性名词和中性名词在属格词词尾加 -(e)s
+- 阴性名词的单数在所有格中保持原形
+- 阳性名词和中性名词的单数在属格词尾加 -(e)s
 - 名词复数三格词尾若没有 -n/-s 则加 -n
 
 ------
@@ -227,7 +227,7 @@
 | 宾格   | den Studenten         | den Namen         |
 | 复数   | die/den/der Studenten | die/den/der Namen |
 
-辛运的是这样的变格只有少数几个阳性名词，das Herz (heart) 除外：das Herz (主格和宾格)、dem Herzen (与格)、des Herzens (属格)：
+幸运的是，这样变格的只有一部分阳性名词，唯一的例外是中性名词 das Herz（心）：das Herz (主格和宾格)、dem Herzen (与格)、des Herzens (属格)：
 
 - A 类
   - 表男性的以 -e 结尾的名词
@@ -235,8 +235,8 @@
     - der Kollege，男同事 colleague
     - der Franzose，法国男人 Frenchman
   - 源自拉丁语或希腊语，以 -ant/-at/-ent/-ist 结尾的名词
-    - der Diamant，砖石 diamond
-    - der Memokrat，民主人士 democrat
+    - der Diamant，钻石 diamond
+    - der Demokrat，民主人士 democrat
     - der Student，学生 student
     - der Optimist，乐观的人 optimist
 - B 类
