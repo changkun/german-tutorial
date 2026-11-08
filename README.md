@@ -59,7 +59,7 @@
 
 - [3.1 「与格」动词](wordlist/dative-verbs.md)
 - [3.2 A1 词汇清单](wordlist/A1/README.md)
-  - [3.2a A1 第一课生词 Hallo! Ich bin Nicole ...](wordlist/A1/u01.md)
+  - [3.2a A1 第一课生词](wordlist/A1/u01.md)
 - [3.3 A2 词汇清单](wordlist/A2/README.md)
 - [3.4 B1 词汇清单](wordlist/B1/README.md)
 - [3.5 B2 词汇清单](wordlist/B2/README.md)
