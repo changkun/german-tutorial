@@ -105,7 +105,20 @@
 
 下表展示了情态动词具有的不同含义：
 
- //TODO
+| 情态动词   | 主要含义                 | 例子                                             |
+| ------ | -------------------- | ---------------------------------------------- |
+| können | 能力；可能性；请求            | Ich **kann** schwimmen.（我会游泳。）Das **kann** sein.（这有可能。） |
+| dürfen | 允许；否定时表示禁止           | **Darf** ich hier parken?（我可以在这里停车吗？）           |
+| müssen | 必须；否定时表示不必           | Ich **muss** heute arbeiten.（我今天必须工作。）           |
+| sollen | 应该（来自别人的要求或建议）；转述传闻  | Der Arzt sagt, ich **soll** mehr schlafen.（医生说我应该多睡觉。） |
+| wollen | 想要，打算（意愿强烈）          | Ich **will** Pilot werden.（我想当飞行员。）              |
+| mögen  | 喜欢（多直接跟名词）           | Ich **mag** Schokolade.（我喜欢巧克力。）                 |
+| möchte | 想要（礼貌、委婉）            | Ich **möchte** einen Kaffee.（我想要一杯咖啡。）            |
+
+> 会英语的人要特别小心两个「假朋友」：
+>
+> - ich **will** 的意思是「我想要」，而不是英语的 *I will*（我将会）。德语的将来时用 werden，见 [2.3「将来」时](future.md)。
+> - Du **musst** nicht kommen 的意思是「你不必来」，相当于英语的 *You don't have to come*。英语的 *You must not come*（你不许来）在德语里要说 Du **darfst** nicht kommen。
 
 möchte 常用于口语。它是动词 mögen 的一种形式（第二虚拟式，见 [2.4 虚拟语气](subjunctive.md)），没有自己的不定式形式。
 
@@ -159,6 +172,16 @@ möchte 常用于口语。它是动词 mögen 的一种形式（第二虚拟式�
 - zu
 - zurück
 
+以 ankommen（到达）为例，看看可分前缀在不同句子中的位置：
+
+- 现在时：Der Zug **kommt** um acht Uhr **an**.（火车八点到站。）
+- 和情态动词连用：Der Zug **soll** um acht Uhr **ankommen**.（火车应该八点到站。）
+- 从句：Ich weiß, dass der Zug um acht Uhr **ankommt**.（我知道火车八点到站。）
+- 现在完成时：Der Zug **ist** um acht Uhr **angekommen**.（火车八点到站了。）ge- 插在前缀和词干之间。
+- zu 不定式：Es ist wichtig, pünktlich **anzukommen**.（准时到达很重要。）zu 也插在前缀和词干之间。
+
+主句里，动词和它的前缀一前一后，像一对括号一样把句子的其他成分包起来。读德语句子时，一定要读到句尾，看看有没有一个前缀在那里等着，因为它常常会彻底改变动词的意思：Ich **stehe** um sieben Uhr **auf**（我七点起床）和 Ich **stehe** um sieben Uhr **vor der Tür**（我七点站在门口）就是完全不同的两件事。
+
 不可分前缀在发音时从不重读。就像它们的名字一样，不可分前缀永远不会和动词分开。不可分前缀有：
 
 - be
@@ -170,12 +193,24 @@ möchte 常用于口语。它是动词 mögen 的一种形式（第二虚拟式�
 - ver
 - zer
 
+不可分前缀同样经常改变动词的意思：kaufen（买）→ verkaufen（卖），stehen（站）→ verstehen（理解），kommen（来）→ bekommen（得到）。带不可分前缀的动词，现在完成时的第二分词不加 ge-：
+
+- Ich **besuche** meine Großeltern. → Ich habe meine Großeltern **besucht**.（我去看望祖父母。）
+- Ich **verstehe** das nicht. → Ich habe das nicht **verstanden**.（我不明白。）
+
 一些前缀既可以作为可分前缀，也可以作不可分前缀。这种情况下动词具有不同的含义。这些前缀有：
 
 - durch
 - über
 - unter
 - um
+
+| 动词         | 可分（前缀重读）                                               | 不可分（词干重读）                                |
+| ---------- | ------------------------------------------------------ | ---------------------------------------- |
+| übersetzen | 摆渡过河：Der Fährmann **setzt** uns **über**.（船夫把我们渡过河。） | 翻译：Ich **übersetze** den Text.（我翻译这篇文章。）  |
+| umfahren   | 撞倒：Er **fährt** das Schild **um**.（他把路牌撞倒了。）          | 绕行：Er **umfährt** die Stadt.（他绕城而行。）      |
+
+实际使用中，带这些前缀的动词大多只有一种常用的意思，比如 übersetzen 几乎总是「翻译」，所以不必太担心。
 
 ### 动词与介词的固定搭配
 
