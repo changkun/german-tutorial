@@ -89,6 +89,61 @@
 
 ## 关系从句
 
+关系从句用来修饰一个名词，相当于英语中 *who/which/that* 引导的从句、中文里「……的」那一长串定语。德语的关系代词就是 [1.3 代词](pronouns.md) 中讲过的指示代词 der/die/das：
+
+|    | 阳性         | 阴性        | 中性         | 复数        |
+| -- | ---------- | --------- | ---------- | --------- |
+| 主格 | der        | die       | das        | die       |
+| 宾格 | den        | die       | das        | die       |
+| 与格 | dem        | der       | dem        | **denen** |
+| 属格 | **dessen** | **deren** | **dessen** | **deren** |
+
+选择关系代词的规则可以总结为一句话：**性和数向外看，格向内看**。性和数取决于它所修饰的名词，格则取决于它在关系从句中充当什么成分：
+
+- Der Mann, **der** dort steht, ist mein Lehrer.（站在那里的那个男人是我的老师。）der 在从句中作主语，主格
+- Der Mann, **den** ich gestern gesehen habe, ist mein Lehrer.（我昨天看见的那个男人是我的老师。）den 在从句中作宾格宾语
+- Der Mann, **dem** ich geholfen habe, ist mein Lehrer.（我帮助过的那个男人是我的老师。）helfen 支配与格
+- Der Mann, **dessen** Auto kaputt ist, ist mein Lehrer.（车坏了的那个男人是我的老师。）dessen 表示所属，相当于英语的 *whose*
+- Die Kinder, **denen** ich Deutsch beibringe, sind sehr klug.（我教德语的那些孩子很聪明。）复数与格
+
+和其他从句一样，关系从句中的变位动词放在句尾，并且要用逗号和主句隔开。
+
+和英语相比，有两点需要注意：
+
+1. 英语口语中常常省略关系代词（*the man I saw*），德语则**永远不能省略**：der Mann, **den** ich gesehen habe。
+2. 英语常常把介词放在从句末尾（*the friend I'm going to Berlin with*），德语则必须把介词放在关系代词前面：die Freundin, **mit der** ich nach Berlin fahre（和我一起去柏林的那个朋友）。
+
+此外，修饰 alles（一切）、nichts（什么也没有）、etwas（某事）或者整个句子时，用 was 作关系代词：Alles, **was** du sagst, ist richtig.（你说的一切都是对的。）修饰地点时，可以用 wo：die Stadt, **wo** ich wohne = die Stadt, **in der** ich wohne（我住的那座城市）。
+
 ## 不定式句
+
+不定式句由 zu + 不定式构成，不定式放在句尾，相当于英语的 *to + 动词原形*：
+
+- Ich habe keine Lust, heute **zu arbeiten**.（我今天不想工作。）
+- Es ist wichtig, Deutsch **zu lernen**.（学德语很重要。）
+- Vergiss nicht, mich **anzurufen**!（别忘了给我打电话！）
+
+注意可分动词的 zu 插在前缀和词干之间：anrufen → an**zu**rufen。情态动词后面的不定式不加 zu：Ich **kann** kommen。
+
+常和不定式句连用的有 versuchen（尝试）、vergessen（忘记）、anfangen（开始）、aufhören（停止）、hoffen（希望）、vorhaben（打算），以及 Lust haben（有兴致）、Zeit haben（有时间）等。
+
+此外，还有三个由介词引导的不定式句：
+
+- **um … zu**（为了）：Ich lerne Deutsch, **um** in Deutschland **zu studieren**.（我学德语，为了在德国上大学。）
+- **ohne … zu**（没有……就）：Er ging, **ohne** sich **zu verabschieden**.（他没有道别就走了。）
+- **(an)statt … zu**（不……而是）：**Statt zu arbeiten**, sieht er fern.（他不工作，而是在看电视。）
+
+不定式没有自己的主语，它的主语默认就是主句的主语。所以只有两个句子的主语相同时，才能用不定式句；主语不同时，要改用从句：
+
+- Ich lerne Deutsch, **um** dich **zu verstehen**.（我学德语，为了能听懂你。）主语都是 ich
+- Ich spreche langsam, **damit** du mich **verstehst**.（我说慢一点，好让你听懂。）主语不同，用 damit 从句
+
+## 总结
+
+1. 并列连词 aber、denn、und、sondern、oder 不占位置，后面的句子词序不变；deshalb、trotzdem 等连接副词占据第一位，主语倒装；
+2. 从属连词引导从句，从句中的变位动词放在句尾；从句在前时，主句以变位动词开头；
+3. 间接疑问句用疑问词或 ob 引导；过去一次性的事情用 als，其他情况用 wenn；
+4. 关系代词的性和数取决于所修饰的名词，格取决于它在从句中的作用；关系代词不能省略，介词必须放在关系代词前面；
+5. 不定式句 = zu + 不定式，可分动词的 zu 插在中间；um … zu、ohne … zu、statt … zu 要求两个句子的主语相同。
 
 [返回目录](../README.md) [上一节 2.5 被动语态](passive.md) [下一节 3.1 「与格」动词](../wordlist/dative-verbs.md)
