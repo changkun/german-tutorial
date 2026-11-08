@@ -242,4 +242,23 @@ man 只能作主语，动词用第三人称单数。注意不要和 der Mann（�
 6. 「互相」用 uns/euch/sich 或 einander 表达；
 7. 泛指的「人们」用 man，es gibt 相当于英语的 *there is/are*。
 
+## 练习
+
+1. 用人称代词替换加粗部分：Ich sehe **den Mann**. / Ich helfe **der Frau**. / **Der Computer** ist neu.
+2. 填入物主冠词：Anna besucht ___ Bruder. / Peter ruft ___ Mutter an.
+3. 根据回答提出问题：Ich habe **den Lehrer** gesehen. / Das Buch gehört **mir**. / Ich warte **auf den Bus**.
+4. 填入反身代词：Ich freue ___. / Er wäscht ___ die Hände. / Wir treffen ___ morgen.
+5. 用 man 翻译：「这里不许停车。」（停车 = parken）
+
+<details>
+<summary>答案</summary>
+
+1. Ich sehe **ihn**. / Ich helfe **ihr**. / **Er** ist neu.（der Computer 是阳性，所以用 er）
+2. ihren（拥有者是 Anna，Bruder 是阳性宾格），seine（拥有者是 Peter，Mutter 是阴性宾格）。
+3. Wen hast du gesehen? / Wem gehört das Buch? / Worauf wartest du?
+4. mich, sich（与格，因为已经有宾格宾语 die Hände），uns。
+5. Hier darf man nicht parken.
+
+</details>
+
 [返回目录](../README.md) [上一节 1.2 名词](nouns.md) [下一节 1.4 介词](prepositions.md)

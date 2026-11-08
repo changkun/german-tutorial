@@ -293,4 +293,23 @@
 
 格是德语的核心所在，与「格」相关的语法知识通常伴随其他知识，这里只是一个初步的介绍。
 
+## 练习
+
+1. 判断下面名词的性：Freiheit、Mädchen、Zeitung、Büro、Frühling、Kollegin
+2. 写出复数形式：der Tisch、das Kind、die Frau、das Auto、der Vater、das Buch
+3. 指出句中各个名词的格：Der Vater gibt dem Sohn das Geld.
+4. 用属格改写：das Auto von meinem Vater
+5. 填入正确的形式：Ich kenne den ___.（der Student）/ Ich schreibe ___ Müller eine E-Mail.（der Herr）
+
+<details>
+<summary>答案</summary>
+
+1. die Freiheit（-heit），das Mädchen（-chen），die Zeitung（-ung），das Büro（-o），der Frühling（季节，-ling），die Kollegin（-in）。
+2. die Tische, die Kinder, die Frauen, die Autos, die Väter, die Bücher。
+3. der Vater 主格，dem Sohn 与格，das Geld 宾格。
+4. das Auto meines Vaters。
+5. Studenten, Herrn（都属于 n 变化）。
+
+</details>
+
 [返回目录](../README.md) [上一节 1.1 冠词](articles.md) [下一节 1.3 代词](pronouns.md)

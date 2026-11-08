@@ -158,4 +158,21 @@ mehr（更多）和 weniger（更少）永远不变格：Ich brauche **mehr** Ze
 5. 「一样」用 so … wie，「比……更」用比较级 + als；
 6. 分词也可以作形容词使用，第一分词表示主动，第二分词表示被动或完成。
 
+## 练习
+
+1. 填入形容词词尾：der klein___ Hund / ein klein___ Hund / mit einem klein___ Hund / klein___ Hunde（复数，没有冠词）/ das neu___ Auto / ein neu___ Auto
+2. 填入形容词词尾：Ich trinke kalt___ Wasser.（das Wasser）/ Kaffee mit frisch___ Milch（die Milch）
+3. 写出比较级和最高级：alt、gut、viel、groß
+4. 填入 als 或 wie：Er ist so alt ___ ich. / Sie ist älter ___ ich.
+
+<details>
+<summary>答案</summary>
+
+1. der kleine Hund（弱变化），ein kleiner Hund（混合变化，ein 没有词尾），mit einem kleinen Hund，kleine Hunde（强变化），das neue Auto，ein neues Auto（ein 没有词尾）。
+2. kaltes（强变化，中性宾格，对应 das），frischer（强变化，阴性与格，对应 der）。
+3. älter, am ältesten；besser, am besten；mehr, am meisten；größer, am größten。
+4. wie, als。
+
+</details>
+
 [返回目录](../README.md) [上一节 1.5 动词](verbs.md) [下一节 1.7 副词](advers.md)

@@ -208,4 +208,23 @@ kein 的词尾变化和 ein 完全相同，但 kein 有复数形式（keine Kind
 5. dieser、jeder 等 der 类词的变化和定冠词相同，kein 和物主冠词等 ein 类词的变化和不定冠词相同。
 
 
+## 练习
+
+1. 填入正确的定冠词：Ich sehe ___ Mann.（der Mann）/ Ich helfe ___ Frau.（die Frau）/ Das ist das Auto ___ Lehrers.（der Lehrer）/ Ich gebe ___ Kindern Schokolade.（die Kinder）
+2. 填入 ein 或 kein 的正确形式：Hast du ___ Bruder? – Nein, ich habe ___ Bruder.（der Bruder）
+3. 写出缩写形式：in dem、zu der、an das、von dem
+4. 填入 dieser 的正确词尾：Ich kaufe dies___ Computer.（der Computer）/ Ich spreche mit dies___ Frau.（die Frau）
+5. 「他是老师」用德语怎么说？（老师 = Lehrer）
+
+<details>
+<summary>答案</summary>
+
+1. den（阳性宾格），der（helfen 支配与格，阴性与格），des（阳性属格），den（复数与格）。
+2. einen, keinen（阳性宾格）。
+3. im, zur, ans, vom。
+4. diesen（阳性宾格），dieser（mit 支配与格，阴性与格）。
+5. Er ist Lehrer. 说职业时不加冠词。
+
+</details>
+
 [返回目录](../README.md) [上一节 0.5 词序](order.md) [下一节 1.2 名词](nouns.md)

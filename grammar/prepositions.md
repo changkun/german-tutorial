@@ -127,4 +127,23 @@ an, auf, hinter, in, neben, über, unter, vor, zwischen。
 6. 去哪儿、在哪儿、从哪儿来，要根据地点的类型选用 nach/in/zu、in/bei/zu、aus/von；
 7. 介词加代指物的代词时，常常合成 da(r)- 复合词，提问时用 wo(r)- 复合词。
 
+## 练习
+
+1. 填入正确的定冠词：Ich gehe durch ___ Park.（der Park）/ Ich fahre mit ___ Bus.（der Bus）/ Das Geschenk ist für ___ Kind.（das Kind）/ Trotz ___ Regens gehen wir spazieren.（der Regen）
+2. 填入正确的定冠词：Ich lege das Buch auf ___ Tisch. / Das Buch liegt auf ___ Tisch.（der Tisch）
+3. 填入 nach、zu 或 in（必要时和冠词缩写）：Ich fahre ___ Berlin. / Ich gehe ___ Arzt. / Ich gehe ___ Kino. / Ich fahre ___ Schweiz. / Ich gehe ___ Hause.
+4. 用代词改写：Ich warte auf den Bus. / Ich warte auf meinen Freund.
+5. 翻译：「我学德语一年了。」
+
+<details>
+<summary>答案</summary>
+
+1. den（durch 支配第四格），dem（mit 支配第三格），das（für 支配第四格），des（trotz 支配第二格）。
+2. den（wohin? 放到桌上），dem（wo? 在桌上）。
+3. nach Berlin, zum Arzt, ins Kino, in die Schweiz, nach Hause。
+4. Ich warte darauf.（物用 da- 复合词）/ Ich warte auf ihn.（人用人称代词）
+5. Ich lerne seit einem Jahr Deutsch.（seit + 现在时）
+
+</details>
+
 [返回目录](../README.md) [上一节 1.3 代词](pronouns.md) [下一节 1.5 动词](verbs.md)

@@ -283,4 +283,23 @@ möchte 常用于口语。它是动词 mögen 的一种形式（第二虚拟式�
 5. 动词和介词的固定搭配要整体记忆，有些动词的宾语要用与格；
 6. 动词分为弱变化、强变化和混合变化三类，强变化动词要连同基本形式一起记。
 
+## 练习
+
+1. 写出正确的形式：du ___（werden）/ du ___（möchte）/ ich ___（müssen）/ er ___（dürfen）
+2. 用括号里的可分动词完成句子：Ich ___ um sieben Uhr ___.（aufstehen）/ Ich ___ dich morgen ___.（anrufen）
+3. 翻译成德语：You don't have to come. / You must not smoke here.
+4. 填入介词：Ich warte ___ den Bus. / Ich freue mich ___ die Ferien. / Ich denke oft ___ dich.
+5. 填入 du 的正确形式：Ich helfe ___. / Ich sehe ___.
+
+<details>
+<summary>答案</summary>
+
+1. wirst, möchtest, muss, darf。
+2. Ich stehe um sieben Uhr auf. / Ich rufe dich morgen an.
+3. Du musst nicht kommen. / Hier darfst du nicht rauchen.（或 Hier darf man nicht rauchen.）
+4. auf, auf, an。
+5. Ich helfe dir.（helfen 支配与格）/ Ich sehe dich.
+
+</details>
+
 [返回目录](../README.md) [上一节 1.4 介词](prepositions.md) [下一节 1.6 形容词](adjectives.md)

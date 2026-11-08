@@ -79,4 +79,21 @@
 4. 几个状语同时出现时，按「时间 – 原因 – 方式 – 地点」（TeKaMoLo）排列；
 5. 语气词 doch、ja、mal、denn 等是德语口语的重要组成部分，它们改变的不是句子的意思，而是说话人的态度。
 
+## 练习
+
+1. 用括号里的成分完成句子，注意顺序：Ich fahre ___.（mit dem Zug / nach Hamburg / heute）
+2. 「过来！」用德语怎么说？
+3. 填空：Ich trinke gern Tee, ___ Kaffee und ___ Wasser.（我喜欢喝茶，更喜欢喝咖啡，最喜欢喝水。）
+4. 选择合适的语气词（denn, doch, mal）填空：Was ist ___ los? / Komm ___ mit! / Kannst du ___ kommen?
+
+<details>
+<summary>答案</summary>
+
+1. Ich fahre heute mit dem Zug nach Hamburg.（时间 – 方式 – 地点）
+2. Komm her!
+3. lieber, am liebsten。
+4. Was ist denn los? / Komm doch mit! / Kannst du mal kommen?
+
+</details>
+
 [返回目录](../README.md) [上一节 1.6 形容词](adjectives.md) [下一节 2.1 现在时](present.md)
