@@ -271,4 +271,4 @@ Weihnachten 和 Ostern 一般不加冠词：**an** Weihnachten 或 **zu** Weihna
 
 问这些介词的宾语时，指物用 wo(r) + 介词，指人用介词 + 疑问代词：**Worauf** wartest du? – Auf den Bus.（你在等什么？——等公共汽车。）**Auf wen** wartest du? – Auf meinen Bruder.（你在等谁？——等我哥哥。）
 
-[返回目录](../../README.md) [上一节 3.2 A1 词汇清单](../A1/README.md) [下一节 结束语](../../grammar/end.md)
+[返回目录](../../README.md) [上一节 3.2 A1 词汇清单](../A1/README.md) [下一节 3.4 B1 词汇清单](../B1/README.md)

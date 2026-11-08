@@ -34,4 +34,4 @@
 
 Viel Erfolg!（祝你成功！）
 
-[返回目录](../README.md) [上一节 3.3 A2 词汇清单](../wordlist/A2/README.md)
+[返回目录](../README.md) [上一节 3.4 B1 词汇清单](../wordlist/B1/README.md)
