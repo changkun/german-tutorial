@@ -16,11 +16,15 @@
 >
 > 解释：阳性、单数、主格。
 >
-> Ich trage **den** Koffer. 
+> Ich trage **den** Koffer. I'm carrying the suitcase.
+>
+> 我提着箱子。
 >
 > 解释：阳性、单数、宾格。
 >
-> Er kommt mit **dem** Zug. 
+> Er kommt mit **dem** Zug. He's coming by train.
+>
+> 他坐火车来。
 >
 > 解释：阳性、单数、与格。
 
@@ -58,6 +62,14 @@
 >
 > 解释：前句指定特定的公共汽车来了，后句用 nicht 否定了这个特定的公共汽车。
 
+不带冠词的名词（见下文的零冠词），否定时也用 kein：
+
+> Ich habe Zeit. → Ich habe **keine** Zeit.
+>
+> I have time. → I have no time. 我有时间。→ 我没有时间。
+
+kein 的词尾变化和 ein 完全相同，但 kein 有复数形式（keine Kinder），ein 则没有。
+
 
 ## 随格变化
 
@@ -83,6 +95,27 @@
 
 可能你注意到了，复数形式下是没有不定冠词的。
 
+还有一个规律值得注意：在阳性主格、中性主格和中性宾格这三个位置上，ein 和 kein **没有词尾**，而 der/das 却有（der, das）。这三个「空位」决定了后面形容词词尾的变化，是 [1.6 形容词](adjectives.md) 一节的关键。
+
+### der 类词和 ein 类词
+
+很多其他的词也像冠词一样放在名词前面，它们的变化分别和 der 或 ein 相同：
+
+- **der 类词**：dieser（这个）、jener（那个）、jeder（每个）、welcher（哪个）、alle（所有的，只有复数）等。它们的词尾和定冠词 der/die/das 的词尾一一对应：der → dies**er**，den → dies**en**，dem → dies**em**，die → dies**e**，das → dies**es**。
+- **ein 类词**：kein 和所有的物主冠词 mein（我的）、dein（你的）、sein（他的）、ihr（她的，他们的）、unser（我们的）、euer（你们的）、Ihr（您的）。它们的词尾和 ein/kein 完全相同，也都有复数形式。
+
+> 例子：
+>
+> **Dieser** Computer ist neu. Ich kaufe **diesen** Computer.
+>
+> This computer is new. I'm buying this computer. 这台电脑是新的。我买这台电脑。
+>
+> **Mein** Bruder wohnt in Berlin. Ich besuche **meinen** Bruder.
+>
+> My brother lives in Berlin. I'm visiting my brother. 我哥哥住在柏林。我去看我哥哥。
+
+物主冠词的用法见 [1.3 代词](pronouns.md)。
+
 ## 与介词组合
 
 第四，当名词需要与**介词**（Prepositions） an/auf/bei/in/von/zu 配合时，其名词的冠词与介词有以下缩写形式：
@@ -96,6 +129,14 @@
 7. vom = von + dem
 8. zum = zu + dem
 9. zur = zu + der
+
+这些缩写在日常使用中几乎是强制性的，尤其是在固定搭配中：zum Beispiel（例如）、im Moment（目前）、am Montag（在星期一）、beim Arzt（在医生那里）、zur Schule（去上学）。口语中还常见 durchs（durch das）、fürs（für das）、ums（um das）等缩写。
+
+只有当冠词需要被强调，或者后面跟着一个关系从句、特指某一个对象时，才不缩写：
+
+> Ich gehe in **das** Kino, das du mir empfohlen hast.
+>
+> I'm going to the cinema that you recommended to me. 我去你推荐给我的那家电影院。
 
 ## 零冠词
 
@@ -149,6 +190,12 @@
   >
   > Ministers' meeting postponed. 部长会议推迟了。
 
+- 不定指的复数名词（因为复数没有不定冠词）
+
+  > Ich kaufe Äpfel und Bananen.
+  >
+  > I'm buying apples and bananas. 我买苹果和香蕉。
+
 
 ## 总结
 
@@ -158,6 +205,7 @@
 2. 冠词有：定冠词、不定冠词和零冠词；
 3. 定冠词、不定冠词的否定形式分别不同；
 4. 当名词伴随介词时，介词会与其冠词组合并缩写；
+5. dieser、jeder 等 der 类词的变化和定冠词相同，kein 和物主冠词等 ein 类词的变化和不定冠词相同。
 
 
 [返回目录](../README.md) [上一节 0.5 词序](order.md) [下一节 1.2 名词](nouns.md)
