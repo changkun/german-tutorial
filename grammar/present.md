@@ -35,6 +35,8 @@
 - arbeiten（工作）：du arbeit**e**st, er arbeit**e**t, ihr arbeit**e**t
 - finden（找到）：du find**e**st, er find**e**t, ihr find**e**t
 
+同样，词干以「辅音 + m/n」结尾的动词也要加 -e-：öffnen（打开）→ du öffn**e**st, es regn**e**t（下雨）。但元音发生变化的强变化动词，在 du、er 形式中不加 -e-：halten（拿住）→ du hältst, er hält；raten（猜）→ er rät；gelten（有效）→ er gilt。没有元音变化的 ihr 形式照常加：ihr halt**e**t。
+
 类似地，词干以 -s, -ß, -z, -x 结尾的动词，第二人称单数只加 -t：heißen → du heißt，tanzen → du tanzt，reisen → du reist。
 
 不定式形式，第一人称复数和第三人称复数变位形式相同，例如：lernen → wir lernen, sie lernen, Sie lernen。唯一的例外是 sein：wir sind, sie sind。
@@ -84,7 +86,7 @@
 
 命令式用来对别人直接发出命令、指示，提出要求和建议。命令式有下列形式：
 
-- 非正式（无人称代词）非正式的命令式单数形式由动词现在时第二人称单数形式去掉 -st 构成；命令式复数形式则与动词第二人称复数形式相同；
+- 非正式（无人称代词）非正式的命令式单数形式由动词现在时第二人称单数形式去掉词尾 -st 或 -t 构成（du kommst → Komm!，du liest → Lies!，du isst → Iss!）；命令式复数形式则与动词第二人称复数形式相同；
 - 正式（必须加人称代词）正式的命令式与动词现在时第三人称复数形式相同。人称代词 Sie 位于第二位。
 
 | 不定式       | du（你）         | ihr（你们）        | Sie（您/您们）           |
@@ -124,7 +126,7 @@ du 的命令式有几个细节：
 ## 总结
 
 1. 现在时的人称词尾是 -e, -st, -t, -en, -t, -en；不规则变化动词的元音变化只发生在 du 和 er/sie/es 上；
-2. 词干以 -t、-d 结尾的动词，词尾前要加 -e-；
+2. 词干以 -t、-d 或「辅音 + m/n」结尾的动词，词尾前要加 -e-，但元音变化的强变化动词在 du、er 形式中不加（er hält）；
 3. 德语没有进行时，现在时可以表示正在发生的事、习惯、普遍事实、将来，以及从过去持续到现在的事（seit + 现在时）；
 4. 命令式有 du、ihr、Sie 三种形式，动词位于句首，可分前缀放在句尾；
 5. 用 bitte、语气词和情态动词问句可以让请求变得礼貌。
