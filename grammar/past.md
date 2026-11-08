@@ -14,10 +14,27 @@
 
 这类动词词干中的元音发生变化，加一般的人称词尾：
 
+|           | kommen 来 | gehen 走  | sehen 看  | schreiben 写 |
+| --------- | -------- | -------- | -------- | ----------- |
+| ich       | kam      | ging     | sah      | schrieb     |
+| du        | kam-st   | ging-st  | sah-st   | schrieb-st  |
+| er/es/sie | kam      | ging     | sah      | schrieb     |
+| wir       | kam-en   | ging-en  | sah-en   | schrieb-en  |
+| ihr       | kam-t    | ging-t   | sah-t    | schrieb-t   |
+| sie/Sie   | kam-en   | ging-en  | sah-en   | schrieb-en  |
+
 - 规则变化动词
 
-规则变化动词词干中的元音不变化。过去时通过词干后加 -(e)te- 来体现。
+规则变化动词词干中的元音不变化。过去时通过词干后加 -(e)te- 来体现。词干以 -t、-d 结尾时，和现在时一样要加 -e-：
 
+|           | machen 做    | arbeiten 工作     |
+| --------- | ----------- | --------------- |
+| ich       | mach-te     | arbeit-ete      |
+| du        | mach-te-st  | arbeit-ete-st   |
+| er/es/sie | mach-te     | arbeit-ete      |
+| wir       | mach-te-n   | arbeit-ete-n    |
+| ihr       | mach-te-t   | arbeit-ete-t    |
+| sie/Sie   | mach-te-n   | arbeit-ete-n    |
 
 过去时中，弱变化和强变化动词都加一般的人称词尾，即第一、第三人称单数无词尾，复数、第二人称单数有词尾。
 
@@ -25,6 +42,20 @@
 
 有些动词像不规则变化动词一样，词干元音发生变化，但过去时仍加规则变化动词的词尾 -(e)te-：
 
+- bringen（带来）→ brachte
+- denken（想）→ dachte
+- kennen（认识）→ kannte
+- nennen（称呼）→ nannte
+- rennen（奔跑）→ rannte
+- wissen（知道）→ wusste
+
+> 例子：
+>
+> Als ich nach Hause **kam**, **schlief** mein Sohn schon.
+>
+> When I came home, my son was already sleeping. 我回家的时候，儿子已经睡了。
+>
+> 解释：kam 是 kommen 的过去时，schlief 是 schlafen 的过去时。英语的前一个动词用一般过去时，后一个用过去进行时，德语则都用过去时。
 
 可以看出，过去时也能表达出英语中进行时的含义。
 
@@ -32,9 +63,26 @@
 
 - 情态动词
 
-情态动词的过去时和弱变化动词的过去时变化相同，不过没有了元音变音。
+情态动词的过去时和弱变化动词的过去时变化相同，不过没有了元音变音：
+
+| 不定式   | können  | müssen  | dürfen  | wollen  | sollen  | mögen  |
+| ----- | ------- | ------- | ------- | ------- | ------- | ------ |
+| 过去时   | konnte  | musste  | durfte  | wollte  | sollte  | mochte |
+
+人称词尾和 machte 相同：ich konnte, du konntest, er konnte, wir konnten, ihr konntet, sie konnten。
 
 助动词的过去时形式完全不同：
+
+|           | sein  | haben    | werden   |
+| --------- | ----- | -------- | -------- |
+| ich       | war   | hatte    | wurde    |
+| du        | warst | hattest  | wurdest  |
+| er/es/sie | war   | hatte    | wurde    |
+| wir       | waren | hatten   | wurden   |
+| ihr       | wart  | hattet   | wurdet   |
+| sie/Sie   | waren | hatten   | wurden   |
+
+日常口语中，即使其他动词都用现在完成时，这几个词也常用过去时：Ich **war** gestern im Kino.（我昨天去看电影了。）Wir **hatten** keine Zeit.（我们那时没时间。）Ich **konnte** nicht kommen.（我没能来。）还有 es gibt 的过去时 es **gab**（那时有……）和 wissen 的过去时 ich **wusste**（我那时知道），也是如此。
 
 
 ## 第二分词（过去分词）
