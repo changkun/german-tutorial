@@ -57,8 +57,9 @@
 
 ### 第三部分 清单
 
-- [3.1「与格」动词](wordlist/dative-verbs.md)
+- [3.1 「与格」动词](wordlist/dative-verbs.md)
 - [3.2 A1 词汇清单](wordlist/A1/README.md)
+  - [3.2a A1 第一课生词 Hallo! Ich bin Nicole ...](wordlist/A1/u01.md)
 - [3.3 A2 词汇清单](wordlist/A2/README.md)
 - [3.4 B1 词汇清单](wordlist/B1/README.md)
 - [3.5 B2 词汇清单](wordlist/B2/README.md)
@@ -79,4 +80,4 @@
 
 ## 许可
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">德语零基础教程</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://changkun.us/" property="cc:attributionName" rel="cc:attributionURL">欧长坤</a> 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享 署名-非商业性使用-禁止演绎 4.0 国际 许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">德语零基础教程</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://changkun.de/" property="cc:attributionName" rel="cc:attributionURL">欧长坤</a> 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">知识共享 署名-非商业性使用-禁止演绎 4.0 国际 许可协议</a>进行许可。
