@@ -171,8 +171,6 @@ euer 加上词尾时，通常省去中间的 e：eure Kinder，euren Lehrer（�
 
 ## 反身代词
 
-## 反身代词
-
 当宾语和主语是同一个人时，就要用反身代词，相当于英语的 *myself/yourself*、中文的「自己」。德语的反身代词绝大部分和人称代词相同，只有第三人称和尊称 Sie 用 **sich**：
 
 |    | ich  | du   | er/sie/es | wir | ihr  | sie/Sie |
