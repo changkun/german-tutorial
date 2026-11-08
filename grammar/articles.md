@@ -6,7 +6,7 @@
 
 1. **性别**（gender）：阳性（masculine） **der**，阴性（feminine） **die**，中性（neuter） **das**
 2. **数量**（number）：单数（singular），复数（plural）
-3. **格**（case）：主格（nominative）、宾格（accusative）、与格（dative）、属格（gentive），或称第一、四、三、二格。
+3. **格**（case）：主格（nominative）、宾格（accusative）、与格（dative）、属格（genitive），或称第一、四、三、二格。
 
 > 例子：
 >
@@ -61,7 +61,7 @@
 
 ## 随格变化
 
-第三，名词在句中的所属的格不同时，冠词的形式会产生相应的变化，变化有下表总结：
+第三，名词在句中的所属的格不同时，冠词的形式会产生相应的变化，变化由下表总结：
 
 |      | 单数                   | 单数                   | 单数                   | 复数           |
 | ---- | -------------------- | -------------------- | -------------------- | ------------ |
@@ -85,7 +85,7 @@
 
 ## 与介词组合
 
-第四，当名词需要与**介词**（Prepositions） am/auf/bei/in/von/zu 配合时，其名词的冠词与介词有以下缩写形式：
+第四，当名词需要与**介词**（Prepositions） an/auf/bei/in/von/zu 配合时，其名词的冠词与介词有以下缩写形式：
 
 1. am = an + dem
 2. ans = an + das
@@ -99,7 +99,7 @@
 
 ## 零冠词
 
-第五，特定情况下，名词可以不使用冠词，术语也叫做**零冠词**（Zero Article）。当且仅当：
+第五，特定情况下，名词可以不使用冠词，术语也叫做**零冠词**（Zero Article）。常见的情况有：
 
 - 专有名词
 
@@ -109,33 +109,33 @@
 
 - 职业
   
-  > Frau XX ist Programmiererin
+  > Frau XX ist Programmiererin.
   >
   > Frau XX is a computer programmer. XX 女士是位程序员。
 
 - 国籍
 
-  > XX ist Schweizer, YY ist Deutscher
+  > XX ist Schweizer, YY ist Deutscher.
   >
   > XX is Swiss, YY is German. XX 是瑞士人，YY 是德国人。
 
 - 城市、（大部分）国家、各大州
 
-  > Unser Web-Designer kommst aus Indien. 特例：aus **der** Schweiz, **der** Türkei, **dem** Iran.
+  > Unser Web-Designer kommt aus Indien. 特例：aus **der** Schweiz, **der** Türkei, **dem** Iran.
   >
   > Our web-designer comes from India. 我们的网页设计师来自印度。
 
 - 抽象概念（部分）
 
-  > Die Professorinnen kämpfen für Gleichberechtigung
+  > Die Professorinnen kämpfen für Gleichberechtigung.
   >
   > The female professors are fighting for equality. 女教授争取平等。
 
 - 物质（部分）
 
-  >Herr XX trinkt in der Kantine nei Bier.
+  > Herr XX trinkt in der Kantine nie Bier.
   >
-  >Herr XX never drinks beer in the cantine. XX 先生在食堂从不喝酒。
+  > Herr XX never drinks beer in the canteen. XX 先生在食堂从不喝啤酒。
 
 - 固定搭配
 
