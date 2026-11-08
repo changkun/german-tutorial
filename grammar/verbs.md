@@ -216,15 +216,54 @@ möchte 常用于口语。它是动词 mögen 的一种形式（第二虚拟式�
 
 和英语的动词一样，特定的介词构成动词短语，这个动词短语具有不同的含义。介词决定其后所跟名词的格。
 
-- sich freuen über + accusative
-- sich freuen auf + accusative
-- einladen zu + dative
-- sich entschuldigen bei + dative
-- sich entschuldigen für + accusative
+| 动词短语                   | 格  | 英语                    | 中文          |
+| ---------------------- | -- | --------------------- | ----------- |
+| sich freuen über       | 宾格 | to be pleased about   | 为（已发生的事）高兴  |
+| sich freuen auf        | 宾格 | to look forward to    | 期待（将来的事）    |
+| einladen zu            | 与格 | to invite to          | 邀请参加        |
+| sich entschuldigen bei | 与格 | to apologize to       | 向（某人）道歉     |
+| sich entschuldigen für | 宾格 | to apologize for      | 为（某事）道歉     |
+| denken an              | 宾格 | to think of           | 想着，想到       |
+| warten auf             | 宾格 | to wait for           | 等待          |
+| sich interessieren für | 宾格 | to be interested in   | 对……感兴趣      |
+| Angst haben vor        | 与格 | to be afraid of       | 害怕          |
+| teilnehmen an          | 与格 | to take part in       | 参加          |
+| sprechen über          | 宾格 | to talk about         | 谈论          |
+| sich kümmern um        | 宾格 | to take care of       | 照顾，处理       |
+
+> Ich freue mich **über** das Geschenk. Ich freue mich **auf** die Ferien.
+>
+> I'm pleased about the present. I'm looking forward to the holidays. 我收到礼物很高兴。我盼着假期。
+>
+> 解释：同一个动词 sich freuen，介词不同，意思也不同：über 指已经发生的事，auf 指将来的事。
 
 > 应将动词短语作为整体来记忆，例如： denken an + accusative。
 
+这些介词后面如果是代指物的代词，要变成 da(r)- 复合词：Ich denke **daran**.（我想着这件事。）见 [1.4 介词](prepositions.md)。
 
+### 支配与格的动词
+
+大多数动词的宾语用宾格，但有一些常用动词的宾语要用与格，而英语和中文都看不出这个区别：
+
+- helfen（帮助）：Ich helfe **dir**.（我帮你。）
+- danken（感谢）：Ich danke **Ihnen**.（我感谢您。）
+- gefallen（使……喜欢）：Das Bild gefällt **mir**.（我喜欢这幅画。）注意这里主语是 das Bild，喜欢它的人用与格，和英语的 *The picture pleases me* 是一个思路。
+- gehören（属于）：Das Buch gehört **mir**.（这本书是我的。）
+- antworten（回答）：Antworte **mir**!（回答我！）
+
+完整的列表见 [3.1「与格」动词](../wordlist/dative-verbs.md)。至于 geben（给）、zeigen（展示）这类同时带与格和宾格两个宾语的动词，见 [1.2 名词](nouns.md)。
+
+### 弱变化动词和强变化动词
+
+德语的动词按变位方式分为三类：
+
+- **弱变化动词**（规则动词）：词干不变，过去时加 -te，第二分词为 ge-…-t：machen – machte – gemacht。绝大多数动词属于这一类，新造的动词也都属于这一类。
+- **强变化动词**（不规则动词）：词干元音发生变化，第二分词以 -en 结尾：fahren – fuhr – gefahren，sprechen – sprach – gesprochen。数量不多，但几乎都是最常用的动词。
+- **混合变化动词**：词干元音变化，但又带有弱变化的词尾：bringen – brachte – gebracht，denken – dachte – gedacht。
+
+英语也有同样的区分：*work – worked – worked* 是规则的，*drink – drank – drunk* 是不规则的。而且英语和德语的不规则动词常常是同一批词：trinken – trank – getrunken，singen – sang – gesungen，kommen – kam – gekommen。
+
+所以记强变化动词时，要连同它的基本形式一起记：不定式 – 过去时 – 第二分词。如果现在时第三人称单数有元音变化，也要一起记：fahren – fährt – fuhr – gefahren。具体的变化见 [2.1 现在时](present.md) 和 [2.2 过去时](past.md)。
 
 ## 总结
 
@@ -235,6 +274,13 @@ möchte 常用于口语。它是动词 mögen 的一种形式（第二虚拟式�
 - 语气
 - 语态
 
+除此之外，本节还介绍了：
 
+1. 现在时的人称词尾是 -e, -st, -t, -en, -t, -en；
+2. sein、haben、werden 既可以作主要动词，也可以作助动词；
+3. 情态动词和句尾的不定式连用；ich will 是「我想要」，du musst nicht 是「你不必」；
+4. 可分前缀重读，在主句中放到句尾；不可分前缀不重读，永远不和动词分开；
+5. 动词和介词的固定搭配要整体记忆，有些动词的宾语要用与格；
+6. 动词分为弱变化、强变化和混合变化三类，强变化动词要连同基本形式一起记。
 
 [返回目录](../README.md) [上一节 1.4 介词](prepositions.md) [下一节 1.6 形容词](adjectives.md)
