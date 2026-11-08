@@ -10,9 +10,9 @@
 
 > 例子：
 >
-> Das ist **der** Koffer.  That is the suitcase.
+> Das ist **der** Koffer.
 >
-> 这是箱子。
+> That is the suitcase. 这是箱子。
 >
 > 解释：阳性、单数、主格。
 >
