@@ -95,7 +95,7 @@ else:                              # 没有冠词，或 ein/kein/mein 这类没�
 
 三种形式（原级、比较级和最高级）都可以作定语或表语。作定语时，词尾都遵循相同的规则。
 
-- 不过也有一两种特例。如果形容词以 -d, -s, -ss, -ß, -sch, -t, -tz, -x 或者 -z 结尾，最高级要加 -est 而不是 -st，以便发音：alt → am ältesten，kurz → am kürzesten，heiß → am heißesten。例外是 groß → am größten。
+- 不过也有一两种特例。如果单音节形容词（或者重音在最后一个音节的形容词）以 -d, -s, -ss, -ß, -sch, -t, -tz, -x 或者 -z 结尾，最高级要加 -est 而不是 -st，以便发音：alt → am ältesten，kurz → am kürzesten，heiß → am heißesten，interessant → am interessantesten。例外是 groß → am größten。重音不在最后一个音节时，仍然只加 -st：praktisch → am praktischsten，spannend → am spannendsten。
 - 很多单音节形容词的 a, o, u 在比较级和最高级中要变成 ä, ö, ü：alt → älter，groß → größer，jung → jünger；
 - 其他不规则变化有：
 
