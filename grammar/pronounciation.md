@@ -21,7 +21,7 @@ X Y Z ä ö ü ß
 - 规则一：单词中两个相同的元音叠加在一起时，该元音发长音
   - 例子：Maat，Paar，Haar
 - 规则二：单词中，元音后面有字母 h ，该元音发长音，且字母 h 不发音（相当于一个长音符号）
-  - 例子：n**ah**men, H**ah**n, L**ah**m, K**a**hn
+  - 例子：n**ah**men, H**ah**n, l**ah**m, K**ah**n
 - 规则三：单词中，在元音后面只有一个，或者没有辅音字母，该元音发长音（后缀除外）
   - 例子：P**a**p**a**, N**a**m**e**, L**a**den （这个 en 是后缀，不算入辅音之内）
 - 规则四：单词中，元音后面有两个或者以上的辅音，该元音发短音
@@ -33,12 +33,12 @@ X Y Z ä ö ü ß
 
 1. 很多跟英语完全相同，学习重点放在不同于英语的辅音上；
 2. 德语辅音分别为浊辅音和清辅音。声带震动为浊辅音。
-3. b, d, g 这三个浊辅音字母，当它们位于单词或者音节的末尾，将发对饮的清辅音，即 p, t, k
+3. b, d, g 这三个浊辅音字母，当它们位于单词或者音节的末尾，将发对应的清辅音，即 p, t, k
    - Bad - 浴室
-   - Hamburg - 汉堡, 很多城市以 burg 堡记为
+   - Hamburg - 汉堡，很多城市名以 burg（城堡）结尾，词尾的 g 发 k
    - Hund - 狗
    - Land - 国家
-   - Obst - 水果，德语中一个元音就是一个音节。字母 b 在字母 o 后面，位于音节最后，因此发清辅音。
+   - Obst - 水果，德语中一个元音就是一个音节。字母 b 在字母 o 后面，位于音节最后，因此发清辅音。注意 Obst 里的 o 发长音，是规则四的一个例外。
 
 ### 元音 Aa
 
@@ -68,13 +68,13 @@ X Y Z ä ö ü ß
 
 - 长音
   - Tee - 茶叶
-  - Kaffee - 咖啡
-  - Beethoven - 贝多芬，th 字母组合在德语中发 /t/
+  - Kaffee - 咖啡，在德国一般重读第一个音节 a，ee 读得较轻；在奥地利则重读 ee
+  - Beethoven - 贝多芬，ee 发长音。这个姓氏来自荷兰语，要拆成 Beet-hoven 来读，t 和 h 分属两个音节，v 发 /f/
   - Lehrer - 老师, 教师，后缀 er, 不能卷舌
 - 短音
   - Bett - 床
-  - nett - 可爱的，句子: Du bist nett! 你好可爱呀~
-  - Berg - 山峰，g 发作 k，泰山 = Tai-Berg 或者 TaiShan-Berg
+  - nett - 友善的，人好的，句子: Du bist nett! 你人真好！
+  - Berg - 山，g 发作 k
 - 弱音：
   - 当字母 e 出现在单词末尾时，需要弱读
     - Tasse - 杯子，咖啡杯
@@ -91,7 +91,7 @@ X Y Z ä ö ü ß
 
 - 长音
   - Tiger - 老虎，发音不能卷舌
-  - China - 中国，ch 组合发作弱化的「西」
+  - China - 中国，ch 组合发作弱化的「西」，德国南部和奥地利也有人读作 Kina
   - lieben - 爱，根据长短音发音规则一，两个元音叠发长音。这里字母 i 例外，不存在两个 ii 的叠加情况，取而代之是 ie，同样发长音。
 - 短音
   - dick - 胖的，Du bist dick. 你好肥（贬义）
@@ -101,10 +101,10 @@ X Y Z ä ö ü ß
 
 - 长音
   - Boot - 小船
-  - Bohne - 豆子，憨豆先生：Herr Bohne
+  - Bohne - 豆子，憨豆先生的英文名 Mr. Bean 直译成德语就是 Herr Bohne
 - 短音
   - Koffer - 箱子
-  - kommen - 来, Ich komme… 我来自... 主语是我，动词一律以字母 e 弱读结尾, 去掉最后一个字母 n
+  - kommen - 来，Ich komme aus China. 我来自中国。主语是 ich 时，现在时的动词大多以弱读的 e 结尾，也就是去掉不定式最后的字母 n
   - Bonn - 波恩
 
 ### 元音 Ää
@@ -112,7 +112,7 @@ X Y Z ä ö ü ß
 - 长音
   - Käse - 奶酪
   - Bär - 熊
-  - Wählen - 选择
+  - wählen - 选择
 - 短音: ä 常常出现在单词的复数中
   - Äpfel - [复]苹果，单数为 Apfel
   - Länder - [复]国家，单数为 Land
@@ -121,13 +121,13 @@ X Y Z ä ö ü ß
 ### 元音 Öö
 
 - 长音
-  - Löwe - 狮子座
-  - böse - 生气的, Ich bin böse. 我生气了。
+  - Löwe - 狮子，也是狮子座
+  - böse - 坏的，恶的；口语里也表示生气: Bist du mir böse? 你生我的气了吗？
   - Löhne - [复] 工资, 单数 Lohn
   - Flöte - 笛子
   - Goethe - 歌德，th 发 /t/，歌德中名字的 oe 发音等于 ö
-    - 少年维特之烦恼 Die leiden des jungen Werther
-    - 浮士德
+    - 少年维特之烦恼 Die Leiden des jungen Werthers
+    - 浮士德 Faust
 - 短音
   - öffnen - 打开， Ich öffne das Fenster. 我开窗。
   - können - 能够
@@ -152,21 +152,23 @@ X Y Z ä ö ü ß
     - Ich sage… 我说… Ich 动词用 e 结尾
   - so - 这样，如此
     - So gut! = So good!, 很好
-- 在元音后，或字母后没有紧跟任何元音字母时，发 /s/
+- 当字母 s 位于词尾、音节末尾，或者后面紧跟辅音时，发 /s/
   - Gas - 气体
   - Lust - 兴趣
   - fast - 几乎, almost
   - ist - 是
 - /s/ 发音的衍生情况
   - 字母组合 ss, 不管前后有无元音，都发 /s/
-  - 字母 ß ，字母念做 /esstset/，相当于 ss
+  - 字母 ß 叫做 Eszett，念做 /ɛsˈtsɛt/，读音相当于 ss。区别在于：ß 前面的元音或双元音发长音（groß, Straße, heißen），ss 前面的元音发短音（Kuss, Wasser, küssen）
     - groß - 大的，高的
       - China ist sehr groß.
       - Yao Ming ist sehr groß.
-  - küssen - 亲吻，字母ü和汉语拼音中的ü发音一模一样
+  - küssen - 亲吻，字母 ü 和汉语拼音中的 ü 发音非常接近
     - Ich küsse dich. 我吻你。
 
 ### 辅音 Ww
+
+字母 w 发 /v/，相当于英语的 v，而不是英语的 w。
 
 - was - 什么
   - Was ist das? 这是什么
@@ -181,16 +183,16 @@ X Y Z ä ö ü ß
 ### 常用短语
 
 - Guten Tag! 你好！字母 g 在这里发作 k
-- Ich leibe dich! 我爱你！德语中，主语如果是我，即 ich，动词一律以字母 e 结尾且需要弱读，去掉最后一个字母 n。
+- Ich liebe dich! 我爱你！德语中，主语如果是我，即 ich，现在时的动词大多以字母 e 结尾且需要弱读，也就是去掉不定式最后一个字母 n。
 - Wie geht es Ihnen? 您好吗？
-  - Ihnen 也是您，Sie也是您，Ihnen 宾语，Sie 主语
+  - Ihnen 也是「您」，是 Sie 的与格形式；Sie 作主语
   - Danke, gut. 谢谢，很好。
   - Nicht so gut! 不太好!
   - Es geht. 还可以。
 - Ach so. 原来如此。
-- Auf Wiedershen。再见。
-  - Auf
-  - wieder - 重复
+- Auf Wiedersehen! 再见！
+  - auf - 介词，在这里表示「期待着」
+  - wieder - 再，又
   - sehen - 看见
 
 ### 小知识
@@ -217,7 +219,7 @@ X Y Z ä ö ü ß
 - 西门子 Siemens
 - 大众 Volkswagen
 - 宝马 BMW
-- 奔驰 Benz
+- 梅赛德斯-奔驰 Mercedes-Benz
 - 保时捷 Porsche
 - 拜耳制药 Bayer
 - 安联保险 Allianz
@@ -227,31 +229,34 @@ X Y Z ä ö ü ß
 ### 说德语的国家
 
 - 德国
-- 瑞士
 - 奥地利
+- 瑞士（四种官方语言之一）
+- 列支敦士登
+- 卢森堡（三种官方语言之一）
+- 比利时（东部的德语区）
 
 ### 说德语的城市
 
 - 柏林 Berlin
-  - 340 万人口, 德国最大城市之一
-  - 勃兰登堡门，Brandenburger Tor，普鲁士 Preussen, 7-haehriger Krieg, 十字勋章 Eisernes Kreuz
+  - 德国首都，三百多万人口，德国最大的城市
+  - 勃兰登堡门 Brandenburger Tor，普鲁士 Preußen，七年战争 Siebenjähriger Krieg，铁十字勋章 Eisernes Kreuz
   - 人多、博物馆多、剧院多、娱乐场所多
-  - 城市徽章：雄
-  - 柏林电影节：Internationale Filmfetspiele Berlin
+  - 城市徽章：熊 Bär
+  - 柏林电影节：Internationale Filmfestspiele Berlin，简称 Berlinale
 - 汉堡 Hamburg
-  - 德国最大港口城市，上海友好姐妹城市，德国最大外贸城市，德国第二大城市，国家化城市，中资外国人非常多
+  - 德国最大港口城市，上海友好姐妹城市，德国最大外贸城市，德国第二大城市，国际化城市，中资企业非常多
   - 德国通向世界的门户
   - 德国传媒中心、绿化面积非常高的海滨城市、汉堡大渔市、圣米歇尔大教堂、市政厅
-  - 欧洲最大的红灯区，位于圣保利区，包括绳索打结（Reeperbahn）在内的几条街组成
+  - 著名的红灯区位于圣保利区，以 Reeperbahn（字面意思是「制绳巷」）为中心的几条街组成
 - 奥地利首都维也纳 Wien
   - 哈布斯堡王朝
-  - 贝多芬、莫扎特、舒伯特、海顿、勃拉姆、约翰斯特劳斯
-  - Adolf Hitler 阿道夫希特勒
+  - 贝多芬、莫扎特、舒伯特、海顿、勃拉姆斯、约翰·施特劳斯都曾在此生活和创作
+  - 阿道夫·希特勒 Adolf Hitler 青年时期也曾在维也纳生活
 - 科隆 Köln
-  - 位于德国鲁尔区，人孔密度最大的区域
-  - 德国四大人口超过百万的城市，仅次于柏林、慕尼黑、汉堡
-  - 工业非常发达有2000年的悠久历史
-  - 科隆大教堂 Kölner Dom，城市名字+er = 城市的，城市的人，高 160 米，建于 1248 年，多带人不断建造共计 300 多年才初具规模。
+  - 位于莱茵河畔，属于德国人口最多的联邦州北莱茵-威斯特法伦
+  - 德国四个人口超过百万的城市之一，仅次于柏林、汉堡、慕尼黑
+  - 工业非常发达，有两千年的悠久历史，古罗马时代建城
+  - 科隆大教堂 Kölner Dom，城市名字+er = 城市的，城市的人，高 157 米，1248 年动工，中途长期停工，直到 1880 年才最终完工，前后历经六百多年。
   - 科隆狂欢节 Kölner Karneval
 - ……
 
