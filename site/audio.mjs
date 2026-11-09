@@ -42,11 +42,16 @@ export function wordSpeakable(html) {
     .replace(/\s*\(([^)]*)\)/g, ", $1"));
 }
 
+// Letters in brackets inside a word are an optional part of it, wär(e)st:
+// say the long form, wärest, rather than drop them and split the word.
+const INWORD = /(\p{L})\((\p{Ll}+)\)(\p{Ll})/gu;
+
 // A hyphen between two lower-case letters marks a stem and its ending in the
 // paradigm tables (wohn-st): the voice reads the whole word.
 function tidy(text) {
   return norm(text
     .replace(/(\p{Ll})-(\p{Ll})/gu, "$1$2")
+    .replace(INWORD, "$1$2$3")
     .replace(/（[^）]*）|\([^)]*\)|\[[^\]]*\]/g, "")
     .replace(/\s*(?:→|=|；|;|\s–)\s*/g, ", ")
     .replace(/…/g, ", ")
@@ -167,6 +172,7 @@ export function markSentences(html) {
 export function cellText(html) {
   const text = decode(html.replace(STRUCK, "").replace(/<[^>]+>/g, ""))
     .replace(/(\p{Ll})-(\p{Ll})/gu, "$1$2")
+    .replace(INWORD, "$1$2$3")
     .replace(/（[^）]*）|\([^)]*\)|\[[^\]]*\]/g, " ")
     .replace(/^…\s*/, "");
   const parts = [];
