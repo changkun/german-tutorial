@@ -330,6 +330,7 @@ ${body}
   <span>作者 <a href="${AUTHOR.url}">${AUTHOR.name}</a></span>
   <span>采用 <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans" rel="license">CC BY-NC-ND 4.0</a> 许可</span>
   <span>朗读为 <a href="https://platform.openai.com/docs/guides/text-to-speech">OpenAI</a> 的 AI 合成语音，读音未必完全准确</span>
+  <span class="page-stat">PV/UV <span id="urlstat-page-pv"></span>/<span id="urlstat-page-uv"></span></span>
 </footer>
 </body>
 </html>

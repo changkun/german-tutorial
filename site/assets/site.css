@@ -432,6 +432,9 @@ tr[hidden], .sec[hidden] { display: none; }
 }
 .foot a { color: inherit; }
 .foot a:hover { color: var(--ink-2); }
+/* Page views and visitors, filled in by urlstat on the published site. */
+.foot .page-stat { font-variant-numeric: tabular-nums; }
+.foot .page-stat:has(#urlstat-page-pv:empty) { display: none; }
 
 @media (max-width: 520px) {
   body { font-size: 16px; }

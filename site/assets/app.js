@@ -1,5 +1,5 @@
-// Page behaviour: theme switch, contents drawer, figure zoom, German audio,
-// and the word-list filter.
+// Page behaviour: theme switch, page views, contents drawer, figure zoom,
+// German audio, and the word-list filter.
 
 const root = document.body.dataset.root;
 const html = document.documentElement;
@@ -17,6 +17,16 @@ matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
   try { t = localStorage.getItem("theme"); } catch {}
   if (t !== "light" && t !== "dark") html.dataset.theme = e.matches ? "dark" : "light";
 });
+
+// ---- page views: counted by urlstat (github.com/changkun/urlstat) on the
+// published site only; its script fills the PV/UV counts in the footer -------
+
+if (/(^|\.)changkun\.de$/.test(location.hostname)) {
+  const stat = document.createElement("script");
+  stat.async = true;
+  stat.src = "https://changkun.de/urlstat/client.js";
+  document.head.append(stat);
+}
 
 // ---- contents: a drawer on a narrow screen -----------------------------------
 
